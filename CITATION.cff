@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Coincidence is cheap: word-sum coverage of the Pentateuch against null models, and 8,629 classical gematria attestations"
+message: "If you use these datasets, please cite them."
+type: dataset
+authors:
+  - family-names: Pichkhadze
+    given-names: Nugzari
+    affiliation: "SAPIR 861 (sapir861.com)"
+version: "2.0"
+date-released: "2026-09-19"
+doi: 10.5281/zenodo.22848827
+url: "https://sapir861.com/research"
+license: CC-BY-4.0
+keywords:
+  - gematria
+  - Hebrew Bible
+  - Pentateuch
+  - null model
+  - digital humanities
+  - Jewish studies
