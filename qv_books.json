@@ -1,0 +1,2480 @@
+[
+{
+"gid": "1342",
+"repo": "Pride-and-Prejudice_1342",
+"file": "1342.txt",
+"title": "Pride and Prejudice"
+},
+{
+"gid": "11",
+"repo": "Alice-s-Adventures-in-Wonderland_11",
+"file": "11.txt",
+"title": "Alice's Adventures in Wonderland"
+},
+{
+"gid": "27827",
+"repo": "The-Kama-Sutra-of-Vatsyayana--13-Translated-From-the-Sanscrit-in-Seven-Parts-With-Preface-Int__27827",
+"file": "27827.txt",
+"title": "The Kama Sutra of Vatsyayana Translated From the Sanscrit in Seven Parts With Preface, Introduction and Concluding Remarks"
+},
+{
+"gid": "76",
+"repo": "Adventures-of-Huckleberry-Finn_76",
+"file": "76.txt",
+"title": "Adventures of Huckleberry Finn"
+},
+{
+"gid": "74",
+"repo": "The-Adventures-of-Tom-Sawyer_74",
+"file": "74.txt",
+"title": "The Adventures of Tom Sawyer"
+},
+{
+"gid": "1952",
+"repo": "The-Yellow-Wallpaper_1952",
+"file": "1952.txt",
+"title": "The Yellow Wallpaper"
+},
+{
+"gid": "4300",
+"repo": "Ulysses_4300",
+"file": "4300.txt",
+"title": "Ulysses"
+},
+{
+"gid": "174",
+"repo": "The-Picture-of-Dorian-Gray_174",
+"file": "174.txt",
+"title": "The Picture of Dorian Gray"
+},
+{
+"gid": "98",
+"repo": "A-Tale-of-Two-Cities_98",
+"file": "98.txt",
+"title": "A Tale of Two Cities"
+},
+{
+"gid": "1661",
+"repo": "The-Adventures-of-Sherlock-Holmes_1661",
+"file": "1661.txt",
+"title": "The Adventures of Sherlock Holmes"
+},
+{
+"gid": "5200",
+"repo": "Metamorphosis_5200",
+"file": "5200.txt",
+"title": "Metamorphosis"
+},
+{
+"gid": "1232",
+"repo": "The-Prince_1232",
+"file": "1232.txt",
+"title": "The Prince"
+},
+{
+"gid": "2701",
+"repo": "Moby-Dick--Or-The-Whale_2701",
+"file": "2701.txt",
+"title": "Moby Dick; Or, The Whale"
+},
+{
+"gid": "844",
+"repo": "The-Importance-of-Being-Earnest--A-Trivial-Comedy-for-Serious-People_844",
+"file": "844.txt",
+"title": "The Importance of Being Earnest: A Trivial Comedy for Serious People"
+},
+{
+"gid": "2591",
+"repo": "Grimms-Fairy-Tales_2591",
+"file": "2591.txt",
+"title": "Grimms' Fairy Tales"
+},
+{
+"gid": "1322",
+"repo": "Leaves-of-Grass_1322",
+"file": "1322.txt",
+"title": "Leaves of Grass"
+},
+{
+"gid": "30254",
+"repo": "The-Romance-of-Lust--A-Classic-Victorian-erotic-novel_30254",
+"file": "30254.txt",
+"title": "The Romance of Lust: A Classic Victorian erotic novel"
+},
+{
+"gid": "135",
+"repo": "Les-Mis-rables_135",
+"file": "135.txt",
+"title": "Les Misérables"
+},
+{
+"gid": "158",
+"repo": "Emma_158",
+"file": "158.txt",
+"title": "Emma"
+},
+{
+"gid": "16328",
+"repo": "Beowulf--13-An-Anglo-Saxon-Epic-Poem_16328",
+"file": "16328.txt",
+"title": "Beowulf An Anglo-Saxon Epic Poem"
+},
+{
+"gid": "308",
+"repo": "Three-Men-in-a-Boat_308",
+"file": "308-0.txt",
+"title": "Three Men in a Boat"
+},
+{
+"gid": "345",
+"repo": "Dracula_345",
+"file": "345.txt",
+"title": "Dracula"
+},
+{
+"gid": "1400",
+"repo": "Great-Expectations_1400",
+"file": "1400.txt",
+"title": "Great Expectations"
+},
+{
+"gid": "84",
+"repo": "Frankenstein--Or-The-Modern-Prometheus_84",
+"file": "84.txt",
+"title": "Frankenstein; Or, The Modern Prometheus"
+},
+{
+"gid": "16",
+"repo": "Peter-Pan_16",
+"file": "16.txt",
+"title": "Peter Pan"
+},
+{
+"gid": "22657",
+"repo": "Steam-Its-Generation-and-Use_22657",
+"file": "22657.txt",
+"title": "Steam, Its Generation and Use"
+},
+{
+"gid": "8800",
+"repo": "The-Divine-Comedy-by-Dante-Illustrated_8800",
+"file": "8800.txt",
+"title": "The Divine Comedy by Dante, Illustrated"
+},
+{
+"gid": "6130",
+"repo": "The-Iliad_6130",
+"file": "6130-0.txt",
+"title": "The Iliad"
+},
+{
+"gid": "1184",
+"repo": "The-Count-of-Monte-Cristo_1184",
+"file": "1184.txt",
+"title": "The Count of Monte Cristo, Illustrated"
+},
+{
+"gid": "1080",
+"repo": "A-Modest-Proposal_1080",
+"file": "1080.txt",
+"title": "A Modest Proposal For preventing the children of poor people in Ireland, from being a burden on their parents or country, and for making them beneficial to the publick"
+},
+{
+"gid": "2814",
+"repo": "Dubliners_2814",
+"file": "2814.txt",
+"title": "Dubliners"
+},
+{
+"gid": "1260",
+"repo": "Jane-Eyre_1260",
+"file": "1260.txt",
+"title": "Jane Eyre: An Autobiography"
+},
+{
+"gid": "829",
+"repo": "Gulliver-s-Travels_829",
+"file": "829-0.txt",
+"title": "Gulliver's Travels into Several Remote Nations of the World"
+},
+{
+"gid": "161",
+"repo": "Sense-and-Sensibility_161",
+"file": "161.txt",
+"title": "Sense and Sensibility"
+},
+{
+"gid": "2500",
+"repo": "Siddhartha_2500",
+"file": "2500.txt",
+"title": "Siddhartha"
+},
+{
+"gid": "2542",
+"repo": "A-Doll-s-House---a-play_2542",
+"file": "2542.txt",
+"title": "A Doll's House : a play"
+},
+{
+"gid": "120",
+"repo": "Treasure-Island_120",
+"file": "120.txt",
+"title": "Treasure Island"
+},
+{
+"gid": "23",
+"repo": "Narrative-of-the-Life-of-Frederick-Douglass-an-American-Slave_23",
+"file": "23.txt",
+"title": "Narrative of the Life of Frederick Douglass, an American Slave"
+},
+{
+"gid": "768",
+"repo": "Wuthering-Heights_768",
+"file": "768.txt",
+"title": "Wuthering Heights"
+},
+{
+"gid": "10609",
+"repo": "English-Literature--13-Its-History-and-Its-Significance-for-the-Life-of-the-English-Speaking-__10609",
+"file": "10609.txt",
+"title": "English Literature Its History and Its Significance for the Life of the English-Speaking World"
+},
+{
+"gid": "2852",
+"repo": "The-Hound-of-the-Baskervilles_2852",
+"file": "2852.txt",
+"title": "The Hound of the Baskervilles"
+},
+{
+"gid": "42",
+"repo": "The-Strange-Case-of-Dr.-Jekyll-and-Mr.-Hyde_42",
+"file": "42.txt",
+"title": "The Strange Case of Dr. Jekyll and Mr. Hyde"
+},
+{
+"gid": "2600",
+"repo": "War-and-Peace_2600",
+"file": "2600.txt",
+"title": "War and Peace"
+},
+{
+"gid": "236",
+"repo": "The-Jungle-Book_236",
+"file": "236.txt",
+"title": "The Jungle Book"
+},
+{
+"gid": "2554",
+"repo": "Crime-and-Punishment_2554",
+"file": "2554.txt",
+"title": "Crime and Punishment"
+},
+{
+"gid": "28520",
+"repo": "Forbidden-FruitMaster-Percy-s-progress-in-and-beyond-the-domestic-circle_28520",
+"file": "28520.txt",
+"title": "Forbidden Fruit Luscious and exciting story and More forbidden fruit or Master Percy's progress in and beyond the domestic circle"
+},
+{
+"gid": "27",
+"repo": "Far-from-the-Madding-Crowd_27",
+"file": "27.txt",
+"title": "Far from the Madding Crowd"
+},
+{
+"gid": "1497",
+"repo": "The-Republic_1497",
+"file": "1497.txt",
+"title": "The Republic"
+},
+{
+"gid": "219",
+"repo": "Heart-of-Darkness_219",
+"file": "219.txt",
+"title": "Heart of Darkness"
+},
+{
+"gid": "100",
+"repo": "The-Complete-Works-of-William-Shakespeare_100",
+"file": "100.txt",
+"title": "The Complete Works of William Shakespeare"
+},
+{
+"gid": "22381",
+"repo": "Myths-and-Legends-of-Ancient-Greece-and-Rome_22381",
+"file": "22381.txt",
+"title": "Myths and Legends of Ancient Greece and Rome"
+},
+{
+"gid": "244",
+"repo": "A-Study-in-Scarlet_244",
+"file": "244.txt",
+"title": "A Study in Scarlet"
+},
+{
+"gid": "39293",
+"repo": "The-Gentlemen-s-Book-of-Etiquette-and-Manual-of-Politenesshis-Relations-Towards-Society_39293",
+"file": "39293-0.txt",
+"title": "The Gentlemen's Book of Etiquette and Manual of Politeness Being a Complete Guide for a Gentleman's Conduct in all his Relations Towards Society"
+},
+{
+"gid": "4363",
+"repo": "Beyond-Good-and-Evil_4363",
+"file": "4363.txt",
+"title": "Beyond Good and Evil"
+},
+{
+"gid": "28054",
+"repo": "The-Brothers-Karamazov_28054",
+"file": "28054-0.txt",
+"title": "The Brothers Karamazov"
+},
+{
+"gid": "1934",
+"repo": "Songs-of-Innocence-and-Songs-of-Experience_1934",
+"file": "1934-0.txt",
+"title": "Songs of Innocence, and Songs of Experience"
+},
+{
+"gid": "20203",
+"repo": "Autobiography-of-Benjamin-Franklin_20203",
+"file": "20203.txt",
+"title": "Autobiography of Benjamin Franklin"
+},
+{
+"gid": "521",
+"repo": "The-Life-and-Adventures-of-Robinson-Crusoe_521",
+"file": "521-0.txt",
+"title": "The Life and Adventures of Robinson Crusoe"
+},
+{
+"gid": "730",
+"repo": "Oliver-Twist_730",
+"file": "730.txt",
+"title": "Oliver Twist"
+},
+{
+"gid": "2397",
+"repo": "The-Story-of-My-Life--13-With-her-letters--1887-1901--and-a-supplementary-account-of-her-educa__2397",
+"file": "2397.txt",
+"title": "The Story of My Life With her letters (1887-1901) and a supplementary account of her education, including passages from the reports and letters of her teacher, Anne Mansfield Sullivan, by John Albert Macy"
+},
+{
+"gid": "863",
+"repo": "The-Mysterious-Affair-at-Styles_863",
+"file": "863.txt",
+"title": "The Mysterious Affair at Styles"
+},
+{
+"gid": "35",
+"repo": "The-Time-Machine_35",
+"file": "35.txt",
+"title": "The Time Machine"
+},
+{
+"gid": "1155",
+"repo": "The-Secret-Adversary_1155",
+"file": "1155.txt",
+"title": "The Secret Adversary"
+},
+{
+"gid": "30601",
+"repo": "How-to-Analyze-People-on-SightThrough-the-Science-of-Human-Analysis--The-Five-Human-Types_30601",
+"file": "30601.txt",
+"title": "How to Analyze People on Sight Through the Science of Human Analysis: The Five Human Types"
+},
+{
+"gid": "30360",
+"repo": "My-Secret-Life-Volumes-I.-to-III.1888-Edition_30360",
+"file": "30360.txt",
+"title": "My Secret Life, Volumes I. to III. 1888 Edition"
+},
+{
+"gid": "46",
+"repo": "A-Christmas-Carol_46",
+"file": "46.txt",
+"title": "A Christmas Carol in Prose; Being a Ghost Story of Christmas"
+},
+{
+"gid": "103",
+"repo": "Around-the-World-in-80-Days_103",
+"file": "103.txt",
+"title": "Around the World in Eighty Days"
+},
+{
+"gid": "41",
+"repo": "The-Legend-of-Sleepy-Hollow_41",
+"file": "41.txt",
+"title": "The Legend of Sleepy Hollow"
+},
+{
+"gid": "10",
+"repo": "The-Bible--Old-and-New-Testaments--King-James-Version_10",
+"file": "10.txt",
+"title": "The King James Version of the Bible"
+},
+{
+"gid": "3825",
+"repo": "Pygmalion_3825",
+"file": "3825.txt",
+"title": "Pygmalion"
+},
+{
+"gid": "3090",
+"repo": "Complete-Original-Short-Stories-of-Guy-De-Maupassant_3090",
+"file": "3090.txt",
+"title": "Complete Original Short Stories of Guy De Maupassant"
+},
+{
+"gid": "205",
+"repo": "Walden-and-On-The-Duty-Of-Civil-Disobedience_205",
+"file": "205-0.txt",
+"title": "Walden, and On The Duty Of Civil Disobedience"
+},
+{
+"gid": "45",
+"repo": "Anne-of-Green-Gables_45",
+"file": "45.txt",
+"title": "Anne of Green Gables"
+},
+{
+"gid": "1399",
+"repo": "Anna-Karenina_1399",
+"file": "1399-0.txt",
+"title": "Anna Karenina"
+},
+{
+"gid": "12",
+"repo": "Through-the-Looking-Glass_12",
+"file": "12.txt",
+"title": "Through the Looking-Glass"
+},
+{
+"gid": "1837",
+"repo": "The-Prince-and-the-Pauper_1837",
+"file": "1837.txt",
+"title": "The Prince and the Pauper"
+},
+{
+"gid": "8789",
+"repo": "The-vision-of-hell.---13-and-illustrated-with-the-seventy-five-designs-of-Gustave-Dor-._8789",
+"file": "8789.txt",
+"title": "The vision of hell.  By Dante Alighieri. Translated by Rev. Henry Francis Cary, M.A. and illustrated with the seventy-five designs of Gustave Doré."
+},
+{
+"gid": "105",
+"repo": "Persuasion_105",
+"file": "105.txt",
+"title": "Persuasion"
+},
+{
+"gid": "852",
+"repo": "Democracy-and-Education--An-Introduction-to-the-Philosophy-of-Education_852",
+"file": "852.txt",
+"title": "Democracy and Education: An Introduction to the Philosophy of Education"
+},
+{
+"gid": "160",
+"repo": "The-Awakening-and-Selected-Short-Stories_160",
+"file": "160.txt",
+"title": "The Awakening, and Selected Short Stories"
+},
+{
+"gid": "766",
+"repo": "David-Copperfield_766",
+"file": "766.txt",
+"title": "David Copperfield"
+},
+{
+"gid": "3600",
+"repo": "Essays-of-Michel-de-Montaigne---Complete_3600",
+"file": "3600.txt",
+"title": "Essays of Michel de Montaigne — Complete"
+},
+{
+"gid": "20776",
+"repo": "Encyclopedia-of-Needlework_20776",
+"file": "20776.txt",
+"title": "Encyclopedia of Needlework"
+},
+{
+"gid": "132",
+"repo": "The-Art-of-War_132",
+"file": "132.txt",
+"title": "The Art of War"
+},
+{
+"gid": "2147",
+"repo": "The-Works-of-Edgar-Allan-Poe---Volume-1_2147",
+"file": "2147-0.txt",
+"title": "The Works of Edgar Allan Poe — Volume 1"
+},
+{
+"gid": "45631",
+"repo": "Twelve-Years-a-Slave--13-Narrative-of-Solomon-Northup-a-Citizen-of-New-York-Kidnapped-in-Wash__45631",
+"file": "45631.txt",
+"title": "Twelve Years a Slave Narrative of Solomon Northup, a Citizen of New-York, Kidnapped in Washington City in 1841, and Rescued in 1853, from a Cotton Plantation near the Red River in Louisiana"
+},
+{
+"gid": "55",
+"repo": "The-Wonderful-Wizard-of-Oz_55",
+"file": "55.txt",
+"title": "The Wonderful Wizard of Oz"
+},
+{
+"gid": "25305",
+"repo": "Memoirs-Of-Fanny-HillA-New-and-Genuine-Edition-from-the-Original-Text--London-1749-_25305",
+"file": "25305.txt",
+"title": "Memoirs Of Fanny Hill A New and Genuine Edition from the Original Text (London, 1749)"
+},
+{
+"gid": "25717",
+"repo": "The-History-Of-The-Decline-And-Fall-Of-The-Roman-EmpireProject-Gutenberg-editions--12-volumes__25717",
+"file": "25717.txt",
+"title": "The History Of The Decline And Fall Of The Roman Empire Table of Contents with links in the HTML file to the two Project Gutenberg editions (12 volumes)"
+},
+{
+"gid": "21700",
+"repo": "Don-Juan_21700",
+"file": "21700.txt",
+"title": "Don Juan"
+},
+{
+"gid": "2148",
+"repo": "The-Works-of-Edgar-Allan-Poe---Volume-2_2148",
+"file": "2148.txt",
+"title": "The Works of Edgar Allan Poe — Volume 2"
+},
+{
+"gid": "20",
+"repo": "Paradise-Lost_20",
+"file": "20.txt",
+"title": "Paradise Lost"
+},
+{
+"gid": "36",
+"repo": "The-War-of-the-Worlds_36",
+"file": "36.txt",
+"title": "The War of the Worlds"
+},
+{
+"gid": "583",
+"repo": "The-Woman-in-White_583",
+"file": "583.txt",
+"title": "The Woman in White"
+},
+{
+"gid": "38065",
+"repo": "Eight-or-Nine-Wise-Words-about-Letter-Writing_38065",
+"file": "38065.txt",
+"title": "Eight or Nine Wise Words about Letter-Writing"
+},
+{
+"gid": "4217",
+"repo": "A-Portrait-of-the-Artist-as-a-Young-Man_4217",
+"file": "4217.txt",
+"title": "A Portrait of the Artist as a Young Man"
+},
+{
+"gid": "1998",
+"repo": "Thus-Spake-Zarathustra--A-Book-for-All-and-None_1998",
+"file": "1998.txt",
+"title": "Thus Spake Zarathustra: A Book for All and None"
+},
+{
+"gid": "62",
+"repo": "A-Princess-of-Mars_62",
+"file": "62.txt",
+"title": "A Princess of Mars"
+},
+{
+"gid": "108",
+"repo": "The-Return-of-Sherlock-Holmes_108",
+"file": "108.txt",
+"title": "The Return of Sherlock Holmes"
+},
+{
+"gid": "245",
+"repo": "Life-on-the-Mississippi_245",
+"file": "245.txt",
+"title": "Life on the Mississippi"
+},
+{
+"gid": "2781",
+"repo": "Just-So-Stories_2781",
+"file": "2781.txt",
+"title": "Just So Stories"
+},
+{
+"gid": "3300",
+"repo": "An-Inquiry-into-the-Nature-and-Causes-of-the-Wealth-of-Nations_3300",
+"file": "3300-8.txt",
+"title": "An Inquiry into the Nature and Causes of the Wealth of Nations"
+},
+{
+"gid": "35123",
+"repo": "The-Ladies-Book-of-Etiquette-and-Manual-of-PolitenessA-Complete-Hand-Book-for-the-Use-of-the-__35123",
+"file": "35123.txt",
+"title": "The Ladies' Book of Etiquette, and Manual of Politeness A Complete Hand Book for the Use of the Lady in Polite Society"
+},
+{
+"gid": "996",
+"repo": "Don-Quixote_996",
+"file": "996.txt",
+"title": "Don Quixote"
+},
+{
+"gid": "408",
+"repo": "The-Souls-of-Black-Folk_408",
+"file": "408.txt",
+"title": "The Souls of Black Folk"
+},
+{
+"gid": "215",
+"repo": "The-Call-of-the-Wild_215",
+"file": "215.txt",
+"title": "The Call of the Wild"
+},
+{
+"gid": "1257",
+"repo": "The-Three-Musketeers_1257",
+"file": "1257-0.txt",
+"title": "The Three Musketeers"
+},
+{
+"gid": "19942",
+"repo": "Candide_19942",
+"file": "19942.txt",
+"title": "Candide"
+},
+{
+"gid": "141",
+"repo": "Mansfield-Park_141",
+"file": "141.txt",
+"title": "Mansfield Park"
+},
+{
+"gid": "3296",
+"repo": "The-Confessions-of-St.-Augustine_3296",
+"file": "3296.txt",
+"title": "The Confessions of St. Augustine"
+},
+{
+"gid": "3207",
+"repo": "Leviathan_3207",
+"file": "3207.txt",
+"title": "Leviathan"
+},
+{
+"gid": "2097",
+"repo": "The-Sign-of-the-Four_2097",
+"file": "2097.txt",
+"title": "The Sign of the Four"
+},
+{
+"gid": "8799",
+"repo": "The-Divine-Comedy-by-Dante-Illustrated-Paradise-Complete_8799",
+"file": "8799.txt",
+"title": "The Divine Comedy by Dante, Illustrated, Paradise, Complete"
+},
+{
+"gid": "2413",
+"repo": "Madame-Bovary_2413",
+"file": "2413.txt",
+"title": "Madame Bovary"
+},
+{
+"gid": "514",
+"repo": "Little-Women_514",
+"file": "514.txt",
+"title": "Little Women"
+},
+{
+"gid": "40311",
+"repo": "China-and-Pottery-Marks_40311",
+"file": "40311.txt",
+"title": "China and Pottery Marks"
+},
+{
+"gid": "10007",
+"repo": "Carmilla_10007",
+"file": "10007.txt",
+"title": "Carmilla"
+},
+{
+"gid": "805",
+"repo": "This-Side-of-Paradise_805",
+"file": "805.txt",
+"title": "This Side of Paradise"
+},
+{
+"gid": "121",
+"repo": "Northanger-Abbey_121",
+"file": "121.txt",
+"title": "Northanger Abbey"
+},
+{
+"gid": "145",
+"repo": "Middlemarch_145",
+"file": "145.txt",
+"title": "Middlemarch"
+},
+{
+"gid": "8492",
+"repo": "The-King-in-Yellow_8492",
+"file": "8492.txt",
+"title": "The King in Yellow"
+},
+{
+"gid": "34901",
+"repo": "On-Liberty_34901",
+"file": "34901.txt",
+"title": "On Liberty"
+},
+{
+"gid": "18251",
+"repo": "Latin-for-Beginners_18251",
+"file": "18251-0.txt",
+"title": "Latin for Beginners"
+},
+{
+"gid": "375",
+"repo": "An-Occurrence-at-Owl-Creek-Bridge_375",
+"file": "375.txt",
+"title": "An Occurrence at Owl Creek Bridge"
+},
+{
+"gid": "2680",
+"repo": "Meditations_2680",
+"file": "2680.txt",
+"title": "Meditations"
+},
+{
+"gid": "14591",
+"repo": "Faust_14591",
+"file": "14591.txt",
+"title": "Faust"
+},
+{
+"gid": "1112",
+"repo": "The-Tragedy-of-Romeo-and-Juliet_1112",
+"file": "1112.txt",
+"title": "The Tragedy of Romeo and Juliet"
+},
+{
+"gid": "37134",
+"repo": "The-Elements-of-Style_37134",
+"file": "37134.txt",
+"title": "The Elements of Style"
+},
+{
+"gid": "3176",
+"repo": "The-Innocents-Abroad_3176",
+"file": "3176.txt",
+"title": "The Innocents Abroad"
+},
+{
+"gid": "851",
+"repo": "Narrative-of-the-Captivity-and-Restoration-of-Mrs.-Mary-Rowlandson_851",
+"file": "851.txt",
+"title": "Narrative of the Captivity and Restoration of Mrs. Mary Rowlandson"
+},
+{
+"gid": "86",
+"repo": "A-Connecticut-Yankee-in-King-Arthur-s-Court_86",
+"file": "86.txt",
+"title": "A Connecticut Yankee in King Arthur's Court"
+},
+{
+"gid": "33",
+"repo": "The-Scarlet-Letter_33",
+"file": "33.txt",
+"title": "The Scarlet Letter"
+},
+{
+"gid": "20480",
+"repo": "Palmistry-for-All_20480",
+"file": "20480.txt",
+"title": "Palmistry for All"
+},
+{
+"gid": "147",
+"repo": "Common-Sense_147",
+"file": "147.txt",
+"title": "Common Sense"
+},
+{
+"gid": "140",
+"repo": "The-Jungle_140",
+"file": "140.txt",
+"title": "The Jungle"
+},
+{
+"gid": "110",
+"repo": "Tess-of-the-d-Urbervilles--a-Pure-Woman_110",
+"file": "110.txt",
+"title": "Tess of the d'Urbervilles: A Pure Woman"
+},
+{
+"gid": "1951",
+"repo": "The-Coming-Race_1951",
+"file": "1951.txt",
+"title": "The Coming Race"
+},
+{
+"gid": "14838",
+"repo": "The-Tale-of-Peter-Rabbit_14838",
+"file": "14838.txt",
+"title": "The Tale of Peter Rabbit"
+},
+{
+"gid": "786",
+"repo": "Hard-Times_786",
+"file": "786-0.txt",
+"title": "Hard Times"
+},
+{
+"gid": "5827",
+"repo": "The-Problems-of-Philosophy_5827",
+"file": "5827.txt",
+"title": "The Problems of Philosophy"
+},
+{
+"gid": "1727",
+"repo": "The-Odyssey--13-Rendered-into-English-prose-for-the-use-of-those-who-cannot-read-the-original_1727",
+"file": "1727.txt",
+"title": "The Odyssey Rendered into English prose for the use of those who cannot read the original"
+},
+{
+"gid": "22577",
+"repo": "Practical-Grammar-and-Composition_22577",
+"file": "22577.txt",
+"title": "Practical Grammar and Composition"
+},
+{
+"gid": "15250",
+"repo": "Myths-and-Legends-of-China_15250",
+"file": "15250.txt",
+"title": "Myths and Legends of China"
+},
+{
+"gid": "1228",
+"repo": "On-the-Origin-of-Species-By-Means-of-Natural-Selection-or-the-Preservation-of-Favoured-Races-i__1228",
+"file": "1228.txt",
+"title": "On the Origin of Species By Means of Natural Selection Or, the Preservation of Favoured Races in the Struggle for Life"
+},
+{
+"gid": "15399",
+"repo": "The-Interesting-Narrative-of-the-Life-of-Olaudah-Equiano-Or-Gustavus-Vassa-The-AfricanWritten__15399",
+"file": "15399.txt",
+"title": "The Interesting Narrative of the Life of Olaudah Equiano, Or Gustavus Vassa, The African Written By Himself"
+},
+{
+"gid": "526",
+"repo": "Heart-of-Darkness_526",
+"file": "526.txt",
+"title": "Heart of Darkness"
+},
+{
+"gid": "31547",
+"repo": "Youth_31547",
+"file": "31547.txt",
+"title": "Youth"
+},
+{
+"gid": "4705",
+"repo": "A-Treatise-of-Human-Nature_4705",
+"file": "4705.txt",
+"title": "A Treatise of Human Nature"
+},
+{
+"gid": "1597",
+"repo": "Andersen-s-Fairy-Tales_1597",
+"file": "1597.txt",
+"title": "Andersen's Fairy Tales"
+},
+{
+"gid": "421",
+"repo": "Kidnapped_421",
+"file": "421.txt",
+"title": "Kidnapped"
+},
+{
+"gid": "3177",
+"repo": "Roughing-It_3177",
+"file": "3177.txt",
+"title": "Roughing It"
+},
+{
+"gid": "7849",
+"repo": "The-Trial_7849",
+"file": "7849.txt",
+"title": "The Trial"
+},
+{
+"gid": "834",
+"repo": "The-Memoirs-of-Sherlock-Holmes_834",
+"file": "834.txt",
+"title": "The Memoirs of Sherlock Holmes"
+},
+{
+"gid": "209",
+"repo": "The-Turn-of-the-Screw_209",
+"file": "209.txt",
+"title": "The Turn of the Screw"
+},
+{
+"gid": "4280",
+"repo": "The-Critique-of-Pure-Reason_4280",
+"file": "4280.txt",
+"title": "The Critique of Pure Reason"
+},
+{
+"gid": "972",
+"repo": "The-Devil-s-Dictionary_972",
+"file": "972.txt",
+"title": "The Devil's Dictionary"
+},
+{
+"gid": "21279",
+"repo": "2-B-R-0-2-B_21279",
+"file": "21279.txt",
+"title": "2 B R 0 2 B"
+},
+{
+"gid": "113",
+"repo": "The-Secret-Garden_113",
+"file": "113.txt",
+"title": "The Secret Garden"
+},
+{
+"gid": "1251",
+"repo": "Le-Morte-d-Arthur--Volume-1_1251",
+"file": "1251.txt",
+"title": "Le Morte d'Arthur: Volume 1"
+},
+{
+"gid": "30142",
+"repo": "Little-Brother_30142",
+"file": "30142-8.txt",
+"title": "Little Brother"
+},
+{
+"gid": "139",
+"repo": "The-Lost-World_139",
+"file": "139.txt",
+"title": "The Lost World"
+},
+{
+"gid": "1023",
+"repo": "Bleak-House_1023",
+"file": "1023.txt",
+"title": "Bleak House"
+},
+{
+"gid": "289",
+"repo": "The-Wind-in-the-Willows_289",
+"file": "289.txt",
+"title": "The Wind in the Willows"
+},
+{
+"gid": "19033",
+"repo": "Alice-s-Adventures-in-Wonderland_19033",
+"file": "19033.txt",
+"title": "Alice's Adventures in Wonderland"
+},
+{
+"gid": "885",
+"repo": "An-Ideal-Husband_885",
+"file": "885-0.txt",
+"title": "An Ideal Husband"
+},
+{
+"gid": "779",
+"repo": "The-Tragical-History-of-Doctor-Faustus--13-From-the-Quarto-of-1604_779",
+"file": "779.txt",
+"title": "The Tragical History of Doctor Faustus From the Quarto of 1604"
+},
+{
+"gid": "4517",
+"repo": "Ethan-Frome_4517",
+"file": "4517.txt",
+"title": "Ethan Frome"
+},
+{
+"gid": "155",
+"repo": "The-Moonstone_155",
+"file": "155.txt",
+"title": "The Moonstone"
+},
+{
+"gid": "203",
+"repo": "Uncle-Tom-s-Cabin_203",
+"file": "203.txt",
+"title": "Uncle Tom's Cabin"
+},
+{
+"gid": "164",
+"repo": "Twenty-Thousand-Leagues-under-the-Sea_164",
+"file": "164.txt",
+"title": "Twenty Thousand Leagues under the Sea"
+},
+{
+"gid": "2848",
+"repo": "Antiquities-of-the-Jews_2848",
+"file": "2848.txt",
+"title": "Antiquities of the Jews"
+},
+{
+"gid": "19068",
+"repo": "Household-Stories-by-the-Brothers-Grimm_19068",
+"file": "19068.txt",
+"title": "Household Stories by the Brothers Grimm"
+},
+{
+"gid": "7370",
+"repo": "Second-Treatise-of-Government_7370",
+"file": "7370.txt",
+"title": "Second Treatise of Government"
+},
+{
+"gid": "107",
+"repo": "Far-from-the-Madding-Crowd_107",
+"file": "107.txt",
+"title": "Far from the Madding Crowd"
+},
+{
+"gid": "34206",
+"repo": "The-Thousand-and-One-Nights-Vol.-I.Commonly-Called-the-Arabian-Nights-Entertainments_34206",
+"file": "34206-0.txt",
+"title": "The Thousand and One Nights, Vol. I. Commonly Called the Arabian Nights' Entertainments"
+},
+{
+"gid": "2638",
+"repo": "The-Idiot_2638",
+"file": "2638.txt",
+"title": "The Idiot"
+},
+{
+"gid": "14264",
+"repo": "The-Practice-and-Science-of-Drawing_14264",
+"file": "14264.txt",
+"title": "The Practice and Science of Drawing"
+},
+{
+"gid": "41617",
+"repo": "A-Complete-Guide-to-Heraldry_41617",
+"file": "41617.txt",
+"title": "A Complete Guide to Heraldry"
+},
+{
+"gid": "2428",
+"repo": "An-Essay-on-Man--Moral-Essays-and-Satires_2428",
+"file": "2428.txt",
+"title": "An Essay on Man; Moral Essays and Satires"
+},
+{
+"gid": "2610",
+"repo": "Notre-Dame-De-Paris_2610",
+"file": "2610.txt",
+"title": "Notre-Dame De Paris"
+},
+{
+"gid": "2130",
+"repo": "Utopia_2130",
+"file": "2130.txt",
+"title": "Utopia"
+},
+{
+"gid": "3800",
+"repo": "Ethics_3800",
+"file": "3800.txt",
+"title": "Ethics"
+},
+{
+"gid": "600",
+"repo": "Notes-from-the-Underground_600",
+"file": "600.txt",
+"title": "Notes from the Underground"
+},
+{
+"gid": "541",
+"repo": "The-Age-of-Innocence_541",
+"file": "541.txt",
+"title": "The Age of Innocence"
+},
+{
+"gid": "20583",
+"repo": "The-Tribes-and-Castes-of-the-Central-Provinces-of-India-Volume-1_20583",
+"file": "20583.txt",
+"title": "The Tribes and Castes of the Central Provinces of India, Volume 1"
+},
+{
+"gid": "12299",
+"repo": "The-Mechanical-Properties-of-Wood--13-Including-a-Discussion-of-the-Factors-Affecting-the-Mec__12299",
+"file": "12299.txt",
+"title": "The Mechanical Properties of Wood Including a Discussion of the Factors Affecting the Mechanical Properties, and Methods of Timber Testing"
+},
+{
+"gid": "10625",
+"repo": "A-Concise-Dictionary-of-Middle-EnglishFrom-A.D.-1150-to-1580_10625",
+"file": "10625-0.txt",
+"title": "A Concise Dictionary of Middle English from A.D. 1150 to 1580"
+},
+{
+"gid": "12122",
+"repo": "The-Monkey-s-PawThe-Lady-of-the-Barge-and-Others-Part-2._12122",
+"file": "12122.txt",
+"title": "The Monkey's Paw The Lady of the Barge and Others, Part 2."
+},
+{
+"gid": "1250",
+"repo": "Anthem_1250",
+"file": "1250.txt",
+"title": "Anthem"
+},
+{
+"gid": "25141",
+"repo": "The-Pursuit-of-God_25141",
+"file": "25141.txt",
+"title": "The Pursuit of God"
+},
+{
+"gid": "815",
+"repo": "Democracy-in-America---Volume-1_815",
+"file": "815.txt",
+"title": "Democracy in America — Volume 1"
+},
+{
+"gid": "8164",
+"repo": "My-Man-Jeeves_8164",
+"file": "8164.txt",
+"title": "My Man Jeeves"
+},
+{
+"gid": "1200",
+"repo": "Gargantua-and-Pantagruel_1200",
+"file": "1200.txt",
+"title": "Gargantua and Pantagruel"
+},
+{
+"gid": "8525",
+"repo": "Eve-s-Diary-Complete_8525",
+"file": "8525.txt",
+"title": "Eve's Diary, Complete"
+},
+{
+"gid": "5230",
+"repo": "The-Invisible-Man--A-Grotesque-Romance_5230",
+"file": "5230.txt",
+"title": "The Invisible Man: A Grotesque Romance"
+},
+{
+"gid": "4276",
+"repo": "North-and-South_4276",
+"file": "4276.txt",
+"title": "North and South"
+},
+{
+"gid": "6852",
+"repo": "Venus-in-Furs_6852",
+"file": "6852.txt",
+"title": "Venus in Furs"
+},
+{
+"gid": "2892",
+"repo": "Irish-Fairy-Tales_2892",
+"file": "2892.txt",
+"title": "Irish Fairy Tales"
+},
+{
+"gid": "5225",
+"repo": "The-Satyricon---Complete_5225",
+"file": "5225.txt",
+"title": "The Satyricon — Complete"
+},
+{
+"gid": "696",
+"repo": "The-Castle-of-Otranto_696",
+"file": "696-0.txt",
+"title": "The Castle of Otranto"
+},
+{
+"gid": "61",
+"repo": "The-Communist-Manifesto_61",
+"file": "61.txt",
+"title": "The Communist Manifesto"
+},
+{
+"gid": "22542",
+"repo": "Jesus-the-ChristScriptures-Both-Ancient-and-Modern_22542",
+"file": "22542.txt",
+"title": "Jesus the Christ A Study of the Messiah and His Mission According to Holy Scriptures Both Ancient and Modern"
+},
+{
+"gid": "910",
+"repo": "White-Fang_910",
+"file": "910.txt",
+"title": "White Fang"
+},
+{
+"gid": "5131",
+"repo": "Childe-Harold-s-Pilgrimage_5131",
+"file": "5131.txt",
+"title": "Childe Harold's Pilgrimage"
+},
+{
+"gid": "39509",
+"repo": "The-Black-Man-the-Father-of-CivilizationProven-by-Biblical-History_39509",
+"file": "39509.txt",
+"title": "The Black Man, the Father of Civilization Proven by Biblical History"
+},
+{
+"gid": "932",
+"repo": "The-Fall-of-the-House-of-Usher_932",
+"file": "932.txt",
+"title": "The Fall of the House of Usher"
+},
+{
+"gid": "4240",
+"repo": "Women-in-Love_4240",
+"file": "4240.txt",
+"title": "Women in Love"
+},
+{
+"gid": "1656",
+"repo": "Apology_1656",
+"file": "1656.txt",
+"title": "Apology"
+},
+{
+"gid": "42474",
+"repo": "1000-Mythological-Characters-Briefly-DescribedAdapted-to-Private-Schools-High-Schools-and-Aca__42474",
+"file": "42474-0.txt",
+"title": "1000 Mythological Characters Briefly Described Adapted to Private Schools, High Schools and Academies"
+},
+{
+"gid": "11339",
+"repo": "Aesop-s-Fables--a-new-translation_11339",
+"file": "11339.txt",
+"title": "Aesop's Fables; a new translation"
+},
+{
+"gid": "9622",
+"repo": "Lyrical-Ballads-With-a-Few-Other-Poems--1798-_9622",
+"file": "9622.txt",
+"title": "Lyrical Ballads, With a Few Other Poems (1798)"
+},
+{
+"gid": "23319",
+"repo": "Mechanical-Drawing-Self-Taught--13-Comprising-instructions-in-the-selection-and-preparation-o__23319",
+"file": "23319.txt",
+"title": "Mechanical Drawing Self-Taught Comprising instructions in the selection and preparation of drawing instruments, elementary instruction in practical mechanical drawing; together with examples in simple geometry and elementary mechanism, including screw threads, gear wheels, mechanical motions, engines and boilers"
+},
+{
+"gid": "119",
+"repo": "A-Tramp-Abroad_119",
+"file": "119.txt",
+"title": "A Tramp Abroad"
+},
+{
+"gid": "14522",
+"repo": "The-Canterville-Ghost_14522",
+"file": "14522.txt",
+"title": "The Canterville Ghost"
+},
+{
+"gid": "33900",
+"repo": "Principles-of-OrchestrationWith-musical-examples-drawn-from-his-own-works_33900",
+"file": "33900.txt",
+"title": "Principles of Orchestration, with Musical Examples Drawn from His Own Works"
+},
+{
+"gid": "38427",
+"repo": "The-World-As-Will-And-Idea--Vol.-1-of-3-_38427",
+"file": "38427-0.txt",
+"title": "The World As Will And Idea (Vol. 1 of 3)"
+},
+{
+"gid": "731",
+"repo": "History-of-the-Decline-and-Fall-of-the-Roman-Empire---Volume-1_731",
+"file": "731.txt",
+"title": "History of the Decline and Fall of the Roman Empire — Volume 1"
+},
+{
+"gid": "2641",
+"repo": "A-Room-with-a-View_2641",
+"file": "2641.txt",
+"title": "A Room with a View"
+},
+{
+"gid": "35461",
+"repo": "A-Short-History-of-the-World_35461",
+"file": "35461.txt",
+"title": "A Short History of the World"
+},
+{
+"gid": "580",
+"repo": "The-Pickwick-Papers_580",
+"file": "580.txt",
+"title": "The Pickwick Papers"
+},
+{
+"gid": "131",
+"repo": "The-Pilgrim-s-Progress-from-this-world-to-that-which-is-to-come--13-Delivered-under-the-similit__131",
+"file": "131.txt",
+"title": "The Pilgrim's Progress from this world to that which is to come Delivered under the similitude of a dream, by John Bunyan"
+},
+{
+"gid": "18857",
+"repo": "A-Journey-to-the-Centre-of-the-Earth_18857",
+"file": "18857.txt",
+"title": "A Journey to the Centre of the Earth"
+},
+{
+"gid": "921",
+"repo": "De-Profundis_921",
+"file": "921.txt",
+"title": "De Profundis"
+},
+{
+"gid": "73",
+"repo": "The-Red-Badge-of-Courage--An-Episode-of-the-American-Civil-War_73",
+"file": "73.txt",
+"title": "The Red Badge of Courage: An Episode of the American Civil War"
+},
+{
+"gid": "1567",
+"repo": "Poems_1567",
+"file": "1567.txt",
+"title": "Poems"
+},
+{
+"gid": "21531",
+"repo": "Woodwork-Joints--How-they-are-Set-Out-How-Made-and-Where-Used._21531",
+"file": "21531.txt",
+"title": "Woodwork Joints: How they are Set Out, How Made and Where Used."
+},
+{
+"gid": "8710",
+"repo": "The-Dor--Bible-Gallery-Complete--13-Containing-One-Hundred-Superb-Illustrations-and-a-Page-of-__8710",
+"file": "8710.txt",
+"title": "The Doré Bible Gallery, Complete Containing One Hundred Superb Illustrations, and a Page of Explanatory Letter-press Facing Each"
+},
+{
+"gid": "12116",
+"repo": "Struwwelpeter--Merry-Stories-and-Funny-Pictures_12116",
+"file": "12116.txt",
+"title": "Struwwelpeter: Merry Stories and Funny Pictures"
+},
+{
+"gid": "1600",
+"repo": "Symposium_1600",
+"file": "1600.txt",
+"title": "Symposium"
+},
+{
+"gid": "20239",
+"repo": "The-Ten-Books-on-Architecture_20239",
+"file": "20239.txt",
+"title": "The Ten Books on Architecture"
+},
+{
+"gid": "3289",
+"repo": "The-Valley-of-Fear_3289",
+"file": "3289.txt",
+"title": "The Valley of Fear"
+},
+{
+"gid": "82",
+"repo": "Ivanhoe--A-Romance_82",
+"file": "82.txt",
+"title": "Ivanhoe: A Romance"
+},
+{
+"gid": "25063",
+"repo": "The-Beggar-s-Opera--to-Which-is-Prefixed-the-Musick-to-Each-Song_25063",
+"file": "about_the_music.txt",
+"title": "The Beggar's Opera; to Which is Prefixed the Musick to Each Song"
+},
+{
+"gid": "7700",
+"repo": "Lysistrata_7700",
+"file": "7700.txt",
+"title": "Lysistrata"
+},
+{
+"gid": "30241",
+"repo": "The-Person-and-Work-of-The-Holy-Spirit_30241",
+"file": "30241-0.txt",
+"title": "The Person and Work of The Holy Spirit"
+},
+{
+"gid": "78",
+"repo": "Tarzan-of-the-Apes_78",
+"file": "78.txt",
+"title": "Tarzan of the Apes"
+},
+{
+"gid": "3186",
+"repo": "The-Mysterious-Stranger-and-Other-Stories_3186",
+"file": "3186.txt",
+"title": "The Mysterious Stranger, and Other Stories"
+},
+{
+"gid": "5921",
+"repo": "The-History-of-Don-Quixote-Volume-1-Complete_5921",
+"file": "5921.txt",
+"title": "The History of Don Quixote, Volume 1, Complete"
+},
+{
+"gid": "1754",
+"repo": "The-Sea-Gull_1754",
+"file": "1754.txt",
+"title": "The Sea-Gull"
+},
+{
+"gid": "12753",
+"repo": "The-Legends-of-King-Arthur-and-His-Knights_12753",
+"file": "12753.txt",
+"title": "The Legends of King Arthur and His Knights"
+},
+{
+"gid": "383",
+"repo": "She-Stoops-to-Conquer--Or-The-Mistakes-of-a-Night--A-Comedy_383",
+"file": "383.txt",
+"title": "She Stoops to Conquer; Or, The Mistakes of a Night: A Comedy"
+},
+{
+"gid": "500",
+"repo": "The-Adventures-of-Pinocchio_500",
+"file": "500.txt",
+"title": "The Adventures of Pinocchio"
+},
+{
+"gid": "6400",
+"repo": "The-Lives-of-the-Twelve-Caesars-Complete_6400",
+"file": "6400.txt",
+"title": "The Lives of the Twelve Caesars, Complete"
+},
+{
+"gid": "14005",
+"repo": "The-Ladies-Delight_14005",
+"file": "14005.txt",
+"title": "The Ladies Delight"
+},
+{
+"gid": "28497",
+"repo": "Myths-of-the-NorsemenFrom-the-Eddas-and-Sagas_28497",
+"file": "28497.txt",
+"title": "Myths of the Norsemen: From the Eddas and Sagas"
+},
+{
+"gid": "28522",
+"repo": "Laura-Middleton--Her-Brother-and-her-Lover_28522",
+"file": "28522.txt",
+"title": "Laura Middleton; Her Brother and her Lover"
+},
+{
+"gid": "18269",
+"repo": "Pascal-s-Pens-es_18269",
+"file": "18269-0.txt",
+"title": "Pascal's Pensées"
+},
+{
+"gid": "831",
+"repo": "Four-Arthurian-Romances_831",
+"file": "831.txt",
+"title": "Four Arthurian Romances"
+},
+{
+"gid": "13437",
+"repo": "Best-Russian-Short-Stories_13437",
+"file": "13437.txt",
+"title": "Best Russian Short Stories"
+},
+{
+"gid": "15718",
+"repo": "How-To-Write-Special-Feature-Articles--13-A-Handbook-for-Reporters-Correspondents-and-Free-La__15718",
+"file": "15718.txt",
+"title": "How To Write Special Feature Articles A Handbook for Reporters, Correspondents and Free-Lance Writers Who Desire to Contribute to Popular Magazines and Magazine Sections of Newspapers"
+},
+{
+"gid": "940",
+"repo": "The-Last-of-the-Mohicans--A-narrative-of-1757_940",
+"file": "940.txt",
+"title": "The Last of the Mohicans; A narrative of 1757"
+},
+{
+"gid": "7142",
+"repo": "The-History-of-the-Peloponnesian-War_7142",
+"file": "7142.txt",
+"title": "The History of the Peloponnesian War"
+},
+{
+"gid": "7452",
+"repo": "Autobiography-of-a-Yogi_7452",
+"file": "7452.txt",
+"title": "Autobiography of a Yogi"
+},
+{
+"gid": "558",
+"repo": "The-Thirty-Nine-Steps_558",
+"file": "558.txt",
+"title": "The Thirty-Nine Steps"
+},
+{
+"gid": "29558",
+"repo": "Boy-Scouts-HandbookThe-First-Edition-1911_29558",
+"file": "29558.txt",
+"title": "Boy Scouts Handbook The First Edition, 1911"
+},
+{
+"gid": "146",
+"repo": "A-Little-Princess--13-Being-the-whole-story-of-Sara-Crewe-now-told-for-the-first-time_146",
+"file": "146.txt",
+"title": "A Little Princess Being the whole story of Sara Crewe now told for the first time"
+},
+{
+"gid": "4507",
+"repo": "As-a-Man-Thinketh_4507",
+"file": "4507.txt",
+"title": "As a Man Thinketh"
+},
+{
+"gid": "16966",
+"repo": "Shakespearean-TragedyLectures-on-Hamlet-Othello-King-Lear-Macbeth_16966",
+"file": "16966.txt",
+"title": "Shakespearean Tragedy Lectures on Hamlet, Othello, King Lear, Macbeth"
+},
+{
+"gid": "17192",
+"repo": "The-Raven_17192",
+"file": "17192.txt",
+"title": "The Raven"
+},
+{
+"gid": "31516",
+"repo": "The-Eyes-Have-It_31516",
+"file": "31516.txt",
+"title": "The Eyes Have It"
+},
+{
+"gid": "2527",
+"repo": "The-Sorrows-of-Young-Werther_2527",
+"file": "2527.txt",
+"title": "The Sorrows of Young Werther"
+},
+{
+"gid": "1695",
+"repo": "The-Man-Who-Was-Thursday--A-Nightmare_1695",
+"file": "1695.txt",
+"title": "The Man Who Was Thursday: A Nightmare"
+},
+{
+"gid": "21724",
+"repo": "The-Handbook-of-Soap-Manufacture_21724",
+"file": "21724.txt",
+"title": "The Handbook of Soap Manufacture"
+},
+{
+"gid": "2895",
+"repo": "Following-the-Equator--A-Journey-Around-the-World_2895",
+"file": "2895.txt",
+"title": "Following the Equator: A Journey Around the World"
+},
+{
+"gid": "26184",
+"repo": "Simple-Sabotage-Field-Manual_26184",
+"file": "26184-8.txt",
+"title": "Simple Sabotage Field Manual"
+},
+{
+"gid": "8106",
+"repo": "Captain-Cook-s-Journal-During-His-First-Voyage-Round-the-World--13-Made-in-H.-M.-Bark--Endeavo__8106",
+"file": "8106.txt",
+"title": "Captain Cook's Journal During His First Voyage Round the World Made in H. M. Bark \"Endeavour\", 1768-71"
+},
+{
+"gid": "10947",
+"repo": "The-Best-American-Humorous-Short-Stories_10947",
+"file": "10947.txt",
+"title": "The Best American Humorous Short Stories"
+},
+{
+"gid": "6081",
+"repo": "Biographia-Literaria_6081",
+"file": "6081.txt",
+"title": "Biographia Literaria"
+},
+{
+"gid": "503",
+"repo": "The-Blue-Fairy-Book_503",
+"file": "503.txt",
+"title": "The Blue Fairy Book"
+},
+{
+"gid": "47",
+"repo": "Anne-of-Avonlea_47",
+"file": "47.txt",
+"title": "Anne of Avonlea"
+},
+{
+"gid": "12513",
+"repo": "A-Classification-and-Subject-Index-for-Cataloguing-and-Arranging-the-Books-and-Pamphlets-of-a__12513",
+"file": "12513.txt",
+"title": "A Classification and Subject Index for Cataloguing and Arranging the Books and Pamphlets of a Library"
+},
+{
+"gid": "1321",
+"repo": "The-Waste-Land_1321",
+"file": "1321.txt",
+"title": "The Waste Land"
+},
+{
+"gid": "8775",
+"repo": "Poems_8775",
+"file": "8775.txt",
+"title": "Poems"
+},
+{
+"gid": "159",
+"repo": "The-Island-of-Doctor-Moreau_159",
+"file": "159.txt",
+"title": "The Island of Doctor Moreau"
+},
+{
+"gid": "10554",
+"repo": "Right-Ho-Jeeves_10554",
+"file": "10554.txt",
+"title": "Right Ho, Jeeves"
+},
+{
+"gid": "204",
+"repo": "The-Innocence-of-Father-Brown_204",
+"file": "204.txt",
+"title": "The Innocence of Father Brown"
+},
+{
+"gid": "28885",
+"repo": "Alice-s-Adventures-in-WonderlandIllustrated-by-Arthur-Rackham.-With-a-Proem-by-Austin-Dobson_28885",
+"file": "28885.txt",
+"title": "Alice's Adventures in Wonderland Illustrated by Arthur Rackham. With a Proem by Austin Dobson"
+},
+{
+"gid": "228",
+"repo": "The-Aeneid-English_228",
+"file": "228.txt",
+"title": "The Aeneid"
+},
+{
+"gid": "1430",
+"repo": "Beautiful-Stories-from-Shakespeare_1430",
+"file": "1430.txt",
+"title": "Beautiful Stories from Shakespeare"
+},
+{
+"gid": "11027",
+"repo": "Grimm-s-Fairy-Stories_11027",
+"file": "11027.txt",
+"title": "Grimm's Fairy Stories"
+},
+{
+"gid": "175",
+"repo": "The-Phantom-of-the-Opera_175",
+"file": "175.txt",
+"title": "The Phantom of the Opera"
+},
+{
+"gid": "13415",
+"repo": "The-Lady-with-the-Dog-and-Other-Stories_13415",
+"file": "13415.txt",
+"title": "The Lady with the Dog and Other Stories"
+},
+{
+"gid": "28900",
+"repo": "English-Synonyms-and-AntonymsWith-Notes-on-the-Correct-Use-of-Prepositions_28900",
+"file": "28900.txt",
+"title": "English Synonyms and Antonyms With Notes on the Correct Use of Prepositions"
+},
+{
+"gid": "6867",
+"repo": "Lineage-Life-and-Labors-of-Jos--Rizal-Philippine-Patriot_6867",
+"file": "6867.txt",
+"title": "Lineage, Life and Labors of José Rizal, Philippine Patriot"
+},
+{
+"gid": "114",
+"repo": "The-Tenniel-Illustrations-for-Carroll-s-Alice-in-Wonderland_114",
+"file": "114.txt",
+"title": "The Tenniel Illustrations for Carroll's Alice in Wonderland"
+},
+{
+"gid": "16643",
+"repo": "Essays-by-Ralph-Waldo-Emerson_16643",
+"file": "16643.txt",
+"title": "Essays by Ralph Waldo Emerson"
+},
+{
+"gid": "15489",
+"repo": "Dream-PsychologyPsychoanalysis-for-Beginners_15489",
+"file": "15489.txt",
+"title": "Dream Psychology Psychoanalysis for Beginners"
+},
+{
+"gid": "9628",
+"repo": "Buried-Cities--Pompeii-Olympia-Mycenae--Complete-_9628",
+"file": "9628.txt",
+"title": "Buried Cities: Pompeii, Olympia, Mycenae (Complete)"
+},
+{
+"gid": "8299",
+"repo": "Filipino-Popular-Tales_8299",
+"file": "8299.txt",
+"title": "Filipino Popular Tales"
+},
+{
+"gid": "1079",
+"repo": "The-Life-and-Opinions-of-Tristram-Shandy-Gentleman_1079",
+"file": "1079.txt",
+"title": "The Life and Opinions of Tristram Shandy, Gentleman"
+},
+{
+"gid": "16713",
+"repo": "Amusements-in-Mathematics_16713",
+"file": "16713.txt",
+"title": "Amusements in Mathematics"
+},
+{
+"gid": "26654",
+"repo": "Peter-and-Wendy_26654",
+"file": "26654.txt",
+"title": "Peter and Wendy"
+},
+{
+"gid": "41334",
+"repo": "My-Experiences-in-a-Lunatic-AsylumBy-A-Sane-Patient_41334",
+"file": "41334-0.txt",
+"title": "My Experiences in a Lunatic Asylum By A Sane Patient"
+},
+{
+"gid": "51",
+"repo": "Anne-of-the-Island_51",
+"file": "51.txt",
+"title": "Anne of the Island"
+},
+{
+"gid": "201",
+"repo": "Flatland--A-Romance-of-Many-Dimensions--Illustrated-_201",
+"file": "201.txt",
+"title": "Flatland: A Romance of Many Dimensions (Illustrated)"
+},
+{
+"gid": "4093",
+"repo": "Hedda-Gabler_4093",
+"file": "4093.txt",
+"title": "Hedda Gabler"
+},
+{
+"gid": "974",
+"repo": "The-Secret-Agent--A-Simple-Tale_974",
+"file": "974-0.txt",
+"title": "The Secret Agent: A Simple Tale"
+},
+{
+"gid": "1268",
+"repo": "The-Mysterious-Island_1268",
+"file": "1268.txt",
+"title": "The Mysterious Island"
+},
+{
+"gid": "833",
+"repo": "The-Theory-of-the-Leisure-Class_833",
+"file": "833.txt",
+"title": "The Theory of the Leisure Class"
+},
+{
+"gid": "10800",
+"repo": "The-Anatomy-of-Melancholy_10800",
+"file": "10800.txt",
+"title": "The Anatomy of Melancholy"
+},
+{
+"gid": "2759",
+"repo": "The-Man-in-the-Iron-Mask_2759",
+"file": "2759.txt",
+"title": "The Man in the Iron Mask"
+},
+{
+"gid": "3743",
+"repo": "The-Writings-of-Thomas-Paine---Volume-4--1794-1796---The-Age-of-Reason_3743",
+"file": "3743.txt",
+"title": "The Writings of Thomas Paine — Volume 4 (1794-1796): The Age of Reason"
+},
+{
+"gid": "23700",
+"repo": "The-Decameron-of-Giovanni-Boccaccio_23700",
+"file": "23700.txt",
+"title": "The Decameron of Giovanni Boccaccio"
+},
+{
+"gid": "15",
+"repo": "Moby-Dick_15",
+"file": "moby-114.txt",
+"title": "Moby Dick"
+},
+{
+"gid": "24869",
+"repo": "The-R-m-yan-of-V-lm-ki-translated-into-English-verse_24869",
+"file": "24869-0.txt",
+"title": "The Rámáyan of Válmíki, translated into English verse"
+},
+{
+"gid": "4367",
+"repo": "Personal-Memoirs-of-U.-S.-Grant-Complete_4367",
+"file": "4367.txt",
+"title": "Personal Memoirs of U. S. Grant, Complete"
+},
+{
+"gid": "16317",
+"repo": "The-Art-of-Public-Speaking_16317",
+"file": "16317.txt",
+"title": "The Art of Public Speaking"
+},
+{
+"gid": "1974",
+"repo": "The-Poetics-of-Aristotle_1974",
+"file": "1974.txt",
+"title": "The Poetics of Aristotle"
+},
+{
+"gid": "2811",
+"repo": "Letters-of-Pliny_2811",
+"file": "2811.txt",
+"title": "Letters of Pliny"
+},
+{
+"gid": "9105",
+"repo": "Reflections--or-Sentences-and-Moral-Maxims_9105",
+"file": "9105.txt",
+"title": "Reflections; or Sentences and Moral Maxims"
+},
+{
+"gid": "17306",
+"repo": "The-Condition-of-the-Working-Class-in-England-in-1844with-a-Preface-written-in-1892_17306",
+"file": "17306.txt",
+"title": "The Condition of the Working-Class in England in 1844 with a Preface written in 1892"
+},
+{
+"gid": "10623",
+"repo": "Plays_10623",
+"file": "10623.txt",
+"title": "Plays"
+},
+{
+"gid": "3567",
+"repo": "Memoirs-of-Napoleon-Bonaparte---Complete_3567",
+"file": "3567.txt",
+"title": "Memoirs of Napoleon Bonaparte — Complete"
+},
+{
+"gid": "32032",
+"repo": "Second-Variety_32032",
+"file": "32032.txt",
+"title": "Second Variety"
+},
+{
+"gid": "28644",
+"repo": "Beyond-the-Door_28644",
+"file": "28644.txt",
+"title": "Beyond the Door"
+},
+{
+"gid": "38485",
+"repo": "Ancient-Pagan-and-Modern-Christian-SymbolismWith-an-Essay-on-Baal-Worship-On-The-Assyrian-Sac__38485",
+"file": "38485.txt",
+"title": "Ancient Pagan and Modern Christian Symbolism With an Essay on Baal Worship, On The Assyrian Sacred \"Grove,\" And Other"
+},
+{
+"gid": "7889",
+"repo": "Erotica-Romana_7889",
+"file": "7889.txt",
+"title": "Erotica Romana"
+},
+{
+"gid": "2149",
+"repo": "The-Works-of-Edgar-Allan-Poe---Volume-3_2149",
+"file": "2149-8.txt",
+"title": "The Works of Edgar Allan Poe — Volume 3"
+},
+{
+"gid": "2040",
+"repo": "Confessions-of-an-English-Opium-Eater_2040",
+"file": "2040.txt",
+"title": "Confessions of an English Opium-Eater"
+},
+{
+"gid": "599",
+"repo": "Vanity-Fair_599",
+"file": "599.txt",
+"title": "Vanity Fair"
+},
+{
+"gid": "2707",
+"repo": "The-History-of-Herodotus---Volume-1_2707",
+"file": "2707.txt",
+"title": "The History of Herodotus — Volume 1"
+},
+{
+"gid": "27200",
+"repo": "Fairy-Tales-of-Hans-Christian-Andersen_27200",
+"file": "27200.txt",
+"title": "Fairy Tales of Hans Christian Andersen"
+},
+{
+"gid": "10676",
+"repo": "The-Reign-of-Greed_10676",
+"file": "10676.txt",
+"title": "The Reign of Greed"
+},
+{
+"gid": "2166",
+"repo": "King-Solomon-s-Mines_2166",
+"file": "2166.txt",
+"title": "King Solomon's Mines"
+},
+{
+"gid": "35690",
+"repo": "Omens-and-Superstitions-of-Southern-India_35690",
+"file": "35690.txt",
+"title": "Omens and Superstitions of Southern India"
+},
+{
+"gid": "6124",
+"repo": "Pamela-or-Virtue-Rewarded_6124",
+"file": "6124.txt",
+"title": "Pamela, or Virtue Rewarded"
+},
+{
+"gid": "3913",
+"repo": "The-Confessions-of-Jean-Jacques-Rousseau---Complete_3913",
+"file": "3913.txt",
+"title": "The Confessions of Jean Jacques Rousseau — Complete"
+},
+{
+"gid": "14328",
+"repo": "The-Consolation-of-Philosophy_14328",
+"file": "14328.txt",
+"title": "The Consolation of Philosophy"
+},
+{
+"gid": "11231",
+"repo": "Bartleby-the-Scrivener--A-Story-of-Wall-Street_11231",
+"file": "11231.txt",
+"title": "Bartleby, the Scrivener: A Story of Wall-Street"
+},
+{
+"gid": "22089",
+"repo": "The-Liberty-Minstrel_22089",
+"file": "22089.txt",
+"title": "The Liberty Minstrel"
+},
+{
+"gid": "2199",
+"repo": "The-Iliad_2199",
+"file": "2199.txt",
+"title": "The Iliad"
+},
+{
+"gid": "2850",
+"repo": "The-Wars-of-the-Jews--Or-The-History-of-the-Destruction-of-Jerusalem_2850",
+"file": "2850.txt",
+"title": "The Wars of the Jews; Or, The History of the Destruction of Jerusalem"
+},
+{
+"gid": "31",
+"repo": "Oedipus-Trilogy_31",
+"file": "31.txt",
+"title": "Plays of Sophocles: Oedipus the King; Oedipus at Colonus; Antigone"
+},
+{
+"gid": "1254",
+"repo": "Cyrano-De-Bergerac_1254",
+"file": "1254.txt",
+"title": "Cyrano de Bergerac"
+},
+{
+"gid": "2981",
+"repo": "The-Memoirs-of-Jacques-Casanova-de-Seingalt-1725-1798.-Complete_2981",
+"file": "2981.txt",
+"title": "The Memoirs of Jacques Casanova de Seingalt, 1725-1798. Complete"
+},
+{
+"gid": "20916",
+"repo": "The-Arabian-Nights--Their-Best-known-Tales_20916",
+"file": "20916.txt",
+"title": "The Arabian Nights: Their Best-known Tales"
+},
+{
+"gid": "1946",
+"repo": "On-War---Volume-1_1946",
+"file": "1946.txt",
+"title": "On War — Volume 1"
+},
+{
+"gid": "389",
+"repo": "The-Great-God-Pan_389",
+"file": "389.txt",
+"title": "The Great God Pan"
+},
+{
+"gid": "963",
+"repo": "Little-Dorrit_963",
+"file": "963.txt",
+"title": "Little Dorrit"
+},
+{
+"gid": "2151",
+"repo": "The-Works-of-Edgar-Allan-Poe---Volume-5_2151",
+"file": "2151.txt",
+"title": "The Works of Edgar Allan Poe — Volume 5"
+},
+{
+"gid": "35997",
+"repo": "The-Jungle-Book_35997",
+"file": "35997.txt",
+"title": "The Jungle Book"
+},
+{
+"gid": "5946",
+"repo": "The-History-of-Don-Quixote-Volume-2-Complete_5946",
+"file": "5946.txt",
+"title": "The History of Don Quixote, Volume 2, Complete"
+},
+{
+"gid": "41873",
+"repo": "The-History-of-ProstitutionIts-Extent-Causes-and-Effects-throughout-the-World_41873",
+"file": "41873.txt",
+"title": "The History of Prostitution Its Extent, Causes, and Effects throughout the World"
+},
+{
+"gid": "20417",
+"repo": "The-Outline-of-Science-Vol.-1--of-4-A-Plain-Story-Simply-Told_20417",
+"file": "20417.txt",
+"title": "The Outline of Science, Vol. 1 (of 4) A Plain Story Simply Told"
+},
+{
+"gid": "10940",
+"repo": "Manners-Customs-and-Dress-During-the-Middle-Ages-and-During-the-Renaissance-Period_10940",
+"file": "10940.txt",
+"title": "Manners, Customs, and Dress During the Middle Ages and During the Renaissance Period"
+},
+{
+"gid": "31469",
+"repo": "The-Shunned-House_31469",
+"file": "31469.txt",
+"title": "The Shunned House"
+},
+{
+"gid": "2226",
+"repo": "Kim_2226",
+"file": "2226.txt",
+"title": "Kim"
+},
+{
+"gid": "2992",
+"repo": "The-Middle-Class-Gentleman_2992",
+"file": "2992.txt",
+"title": "The Middle-Class Gentleman"
+},
+{
+"gid": "143",
+"repo": "The-Mayor-of-Casterbridge_143",
+"file": "143.txt",
+"title": "The Mayor of Casterbridge"
+},
+{
+"gid": "1404",
+"repo": "The-Federalist-Papers_1404",
+"file": "1404.txt",
+"title": "The Federalist Papers"
+},
+{
+"gid": "24518",
+"repo": "Memoirs-of-Extraordinary-Popular-Delusions-and-the-Madness-of-Crowds_24518",
+"file": "24518-0.txt",
+"title": "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds"
+},
+{
+"gid": "12422",
+"repo": "Journal-of-a-Residence-on-a-Georgian-Plantation--1838-1839_12422",
+"file": "12422.txt",
+"title": "Journal of a Residence on a Georgian Plantation: 1838-1839"
+},
+{
+"gid": "12254",
+"repo": "Illustrated-History-of-Furniture--From-the-Earliest-to-the-Present-Time_12254",
+"file": "12254.txt",
+"title": "Illustrated History of Furniture: From the Earliest to the Present Time"
+},
+{
+"gid": "27424",
+"repo": "Cautionary-Tales-for-Children_27424",
+"file": "27424.txt",
+"title": "Cautionary Tales for Children"
+},
+{
+"gid": "883",
+"repo": "Our-Mutual-Friend_883",
+"file": "883.txt",
+"title": "Our Mutual Friend"
+},
+{
+"gid": "19322",
+"repo": "The-Antichrist_19322",
+"file": "19322.txt",
+"title": "The Antichrist"
+},
+{
+"gid": "1279",
+"repo": "Poems-and-Songs-of-Robert-Burns_1279",
+"file": "1279.txt",
+"title": "Poems and Songs of Robert Burns"
+},
+{
+"gid": "102",
+"repo": "The-Tragedy-of-Pudd-nhead-Wilson_102",
+"file": "102.txt",
+"title": "The Tragedy of Pudd'nhead Wilson"
+},
+{
+"gid": "12030",
+"repo": "The-Spectator-Volumes-1-2-and-3With-Translations-and-Index-for-the-Series_12030",
+"file": "12030.txt",
+"title": "The Spectator, Volumes 1, 2 and 3 With Translations and Index for the Series"
+},
+{
+"gid": "29765",
+"repo": "Webster-s-Unabridged-Dictionary_29765",
+"file": "29765-8.txt",
+"title": "Webster's Unabridged Dictionary"
+},
+{
+"gid": "28521",
+"repo": "The-Power-of-MesmerismA-Highly-Erotic-Narrative-of-Voluptuous-Facts-and-Fancies_28521",
+"file": "28521.txt",
+"title": "The Power of Mesmerism A Highly Erotic Narrative of Voluptuous Facts and Fancies"
+},
+{
+"gid": "6087",
+"repo": "The-Vampyre--a-Tale_6087",
+"file": "6087.txt",
+"title": "The Vampyre; a Tale"
+},
+{
+"gid": "242",
+"repo": "My-Antonia_242",
+"file": "242.txt",
+"title": "My Antonia"
+},
+{
+"gid": "17824",
+"repo": "Little-Black-Sambo_17824",
+"file": "17824.txt",
+"title": "Little Black Sambo"
+},
+{
+"gid": "11224",
+"repo": "Utilitarianism_11224",
+"file": "11224.txt",
+"title": "Utilitarianism"
+},
+{
+"gid": "14314",
+"repo": "Etiquette_14314",
+"file": "14314.txt",
+"title": "Etiquette"
+},
+{
+"gid": "19994",
+"repo": "The-Aesop-for-Children--13-With-pictures-by-Milo-Winter_19994",
+"file": "19994.txt",
+"title": "The Aesop for Children With pictures by Milo Winter"
+},
+{
+"gid": "2009",
+"repo": "The-Origin-of-Species-by-Means-of-Natural-Selection--13-Or-the-Preservation-of-Favoured-Races-__2009",
+"file": "2009.txt",
+"title": "The Origin of Species by Means of Natural Selection Or, the Preservation of Favoured Races in the Struggle for Life, 6th Edition"
+},
+{
+"gid": "45814",
+"repo": "An-Advanced-English-Grammar-with-Exercises_45814",
+"file": "45814-0.txt",
+"title": "An Advanced English Grammar with Exercises"
+},
+{
+"gid": "967",
+"repo": "Nicholas-Nickleby_967",
+"file": "967.txt",
+"title": "Nicholas Nickleby"
+},
+{
+"gid": "217",
+"repo": "Sons-and-Lovers_217",
+"file": "217.txt",
+"title": "Sons and Lovers"
+},
+{
+"gid": "29728",
+"repo": "Cookery-and-Dining-in-Imperial-Rome_29728",
+"file": "29728-0.txt",
+"title": "Cookery and Dining in Imperial Rome"
+},
+{
+"gid": "4081",
+"repo": "The-Alchemist_4081",
+"file": "4081.txt",
+"title": "The Alchemist"
+},
+{
+"gid": "12383",
+"repo": "The-Poetical-Works-of-William-Wordsworth---Volume-3_12383",
+"file": "12383.txt",
+"title": "The Poetical Works of William Wordsworth — Volume 3"
+},
+{
+"gid": "2529",
+"repo": "The-Analysis-of-Mind_2529",
+"file": "2529.txt",
+"title": "The Analysis of Mind"
+},
+{
+"gid": "36238",
+"repo": "The-Mantle-and-Other-Stories_36238",
+"file": "36238.txt",
+"title": "The Mantle, and Other Stories"
+},
+{
+"gid": "21",
+"repo": "Aesop-s-Fables-Translated-by-George-Fyler-Townsend_21",
+"file": "21.txt",
+"title": "Aesop's Fables Translated by George Fyler Townsend"
+},
+{
+"gid": "21765",
+"repo": "The-Metamorphoses-of-Ovid-Books-I-VII_21765",
+"file": "21765-0.txt",
+"title": "The Metamorphoses of Ovid, Books I-VII"
+},
+{
+"gid": "151",
+"repo": "The-Rime-of-the-Ancient-Mariner_151",
+"file": "151.txt",
+"title": "The Rime of the Ancient Mariner"
+},
+{
+"gid": "4018",
+"repo": "Japanese-Fairy-Tales_4018",
+"file": "4018.txt",
+"title": "Japanese Fairy Tales"
+},
+{
+"gid": "17405",
+"repo": "The-Art-of-War_17405",
+"file": "17405.txt",
+"title": "The Art of War"
+},
+{
+"gid": "7471",
+"repo": "The-Man-with-Two-Left-Feet-and-Other-Stories_7471",
+"file": "7471.txt",
+"title": "The Man with Two Left Feet, and Other Stories"
+},
+{
+"gid": "122",
+"repo": "The-Return-of-the-Native_122",
+"file": "122.txt",
+"title": "The Return of the Native"
+},
+{
+"gid": "130",
+"repo": "Orthodoxy_130",
+"file": "130.txt",
+"title": "Orthodoxy"
+},
+{
+"gid": "157",
+"repo": "Daddy-Long-Legs_157",
+"file": "157.txt",
+"title": "Daddy-Long-Legs"
+},
+{
+"gid": "4039",
+"repo": "Volpone--Or-The-Fox_4039",
+"file": "4039.txt",
+"title": "Volpone; Or, The Fox"
+},
+{
+"gid": "3155",
+"repo": "She_3155",
+"file": "3155-0.txt",
+"title": "She"
+},
+{
+"gid": "43",
+"repo": "The-Strange-Case-of-Dr.-Jekyll-and-Mr.-Hyde_43",
+"file": "43.txt",
+"title": "The Strange Case of Dr. Jekyll and Mr. Hyde"
+},
+{
+"gid": "15143",
+"repo": "Famous-Modern-Ghost-Stories_15143",
+"file": "15143.txt",
+"title": "Famous Modern Ghost Stories"
+},
+{
+"gid": "8795",
+"repo": "The-Divine-Comedy-by-Dante-Illustrated-Purgatory-Complete_8795",
+"file": "8795.txt",
+"title": "The Divine Comedy by Dante, Illustrated, Purgatory, Complete"
+},
+{
+"gid": "14358",
+"repo": "A-Little-Book-of-Filipino-Riddles_14358",
+"file": "14358.txt",
+"title": "A Little Book of Filipino Riddles"
+},
+{
+"gid": "28255",
+"repo": "Shelters-Shacks-and-Shanties_28255",
+"file": "28255.txt",
+"title": "Shelters, Shacks and Shanties"
+},
+{
+"gid": "28696",
+"repo": "Symbolic-Logic_28696",
+"file": "28696.txt",
+"title": "Symbolic Logic"
+},
+{
+"gid": "221",
+"repo": "The-Return-of-Sherlock-Holmes_221",
+"file": "221.txt",
+"title": "The Return of Sherlock Holmes"
+},
+{
+"gid": "16436",
+"repo": "Poems-Every-Child-Should-KnowThe-What-Every-Child-Should-Know-Library_16436",
+"file": "16436.txt",
+"title": "Poems Every Child Should Know The What-Every-Child-Should-Know-Library"
+},
+{
+"gid": "23673",
+"repo": "The-St.-Gregory-Hymnal-and-Catholic-Choir-Book_23673",
+"file": "23673.txt",
+"title": "The St. Gregory Hymnal and Catholic Choir Book"
+},
+{
+"gid": "2350",
+"repo": "His-Last-Bow--An-Epilogue-of-Sherlock-Holmes_2350",
+"file": "2350.txt",
+"title": "His Last Bow: An Epilogue of Sherlock Holmes"
+},
+{
+"gid": "18993",
+"repo": "History-of-the-World-War--An-Authentic-Narrative-of-the-World-s-Greatest-War_18993",
+"file": "18993.txt",
+"title": "History  of the World War: An Authentic Narrative of the World's Greatest War"
+},
+{
+"gid": "3435",
+"repo": "The-Book-of-the-Thousand-Nights-and-a-Night---Volume-01_3435",
+"file": "3435.txt",
+"title": "The Book of the Thousand Nights and a Night — Volume 01"
+},
+{
+"gid": "10681",
+"repo": "Roget-s-Thesaurus-of-English-Words-and-Phrases_10681",
+"file": "10681-index.txt",
+"title": "Roget's Thesaurus of English Words and Phrases"
+},
+{
+"gid": "2017",
+"repo": "Dhammapada-a-Collection-of-Verses--Being-One-of-the-Canonical-Books-of-the-Buddhists_2017",
+"file": "2017.txt",
+"title": "Dhammapada, a Collection of Verses; Being One of the Canonical Books of the Buddhists"
+},
+{
+"gid": "216",
+"repo": "The-Tao-Teh-King-or-the-Tao-and-its-Characteristics_216",
+"file": "216.txt",
+"title": "The Tao Teh King, or the Tao and its Characteristics"
+},
+{
+"gid": "16955",
+"repo": "Three-Translations-of-The-Koran--Al-Qur-an--side-by-side_16955",
+"file": "16955.txt",
+"title": "Three Translations of The Koran (Al-Qur'an) side by side"
+},
+{
+"gid": "2388",
+"repo": "The-Song-Celestial--Or-Bhagavad-G-t---from-the-Mah-bh-rata---13-Being-a-discourse-between-Arju__2388",
+"file": "2388.txt",
+"title": "The Song Celestial; Or, Bhagavad-Gîtâ (from the Mahâbhârata) Being a discourse between Arjuna, Prince of India, and the Supreme Being under the form of Krishna"
+},
+{
+"gid": "4094",
+"repo": "The-Chinese-Classics---Volume-1--Confucian-Analects_4094",
+"file": "4094-0.txt",
+"title": "The Chinese Classics — Volume 1: Confucian Analects"
+},
+{
+"gid": "15877",
+"repo": "Thoughts-of-Marcus-Aurelius-Antoninus_15877",
+"file": "15877.txt",
+"title": "Thoughts of Marcus Aurelius Antoninus"
+},
+{
+"gid": "871",
+"repo": "The-Golden-Sayings-of-Epictetus-with-the-Hymn-of-Cleanthes_871",
+"file": "871.txt",
+"title": "The Golden Sayings of Epictetus, with the Hymn of Cleanthes"
+},
+{
+"gid": "13726",
+"repo": "Apology-Crito-and-Phaedo-of-Socrates_13726",
+"file": "13726.txt",
+"title": "Apology, Crito, and Phaedo of Socrates"
+},
+{
+"gid": "3794",
+"repo": "L.-Annaeus-Seneca-on-Benefits_3794",
+"file": "3794.txt",
+"title": "L. Annaeus Seneca on Benefits"
+},
+{
+"gid": "1",
+"repo": "United-States-Declaration-of-Independence_1",
+"file": "1.txt",
+"title": "The Declaration of Independence of the United States of America"
+},
+{
+"gid": "3253",
+"repo": "The-Papers-And-Writings-Of-Abraham-Lincoln-Complete_3253",
+"file": "3253.txt",
+"title": "The Papers And Writings Of Abraham Lincoln, Complete"
+},
+{
+"gid": "148",
+"repo": "The-Autobiography-of-Benjamin-Franklin_148",
+"file": "148.txt",
+"title": "The Autobiography of Benjamin Franklin"
+},
+{
+"gid": "16780",
+"repo": "The-Declaration-of-Independence-of-The-United-States-of-America_16780",
+"file": "",
+"title": "The Declaration of Independence of The United States of America"
+}
+]
