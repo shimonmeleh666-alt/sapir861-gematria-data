@@ -10,16 +10,40 @@
 - API: https://sapir861.com/openapi.json · For AI agents: https://sapir861.com/llms.txt
 - Archived version with DOI: https://doi.org/10.5281/zenodo.22848827
 
+## Reproduce everything (one command)
+
+```
+python3 reproduce.py          # or: docker build -t sapir861 . && docker run --rm sapir861
+```
+Downloads the pinned WLC/OSHB text (SHA-256 in `MANIFEST.json`) and re-derives every control number. Standard library only. Current result: **ALL CHECKS PASSED**.
+
+| check | result |
+|---|---|
+| Torah consonants, WLC (ketiv) | 304,850 |
+| Torah verses | 5,853 |
+| 861 × 354 grid | 304,794 |
+| **861×354 reconciliation** | **354 / 354 pages** — sum of pages = 304,850 = grid + 56; 56 = page 1 (+11) + 45 spelling differences WLC vs edition (47 pages +1, 2 pages −1); edition total 304,805 |
+| attested equalities | 8,629 = 6,494 exact + 2,135 kollel |
+| example pairs re-added letter by letter | 1,015 pass; 8 extraction errors (number words, not equalities) marked `example_withdrawn` in v05 |
+
+## Versions
+`MANIFEST.json` pins three things separately: **engine** (site code version), **data** (dataset release), **corpus** (WLC 4.20 via OSHB, file hashes).
+
+## Licences
+Code and computed tables: CC BY 4.0. `sapir861_attested_gematria_v05.csv` is derived from Hebrew Wikisource and is therefore **CC BY-SA 4.0**.
+
 ## Files
 | file | what |
 |---|---|
-| `sapir861_attested_gematria_v04.csv` | attested equalities from classical texts |
+| `sapir861_attested_gematria_v05.csv` | attested equalities from classical texts (v05: comment row removed, 8 examples withdrawn) |
+| `pages_861x354.csv` | letters per page for all 354 pages (WLC) and the difference from 861 |
+| `reproduce.py`, `MANIFEST.json`, `Dockerfile`, `Makefile` | one-command reproduction |
 | `sapir861_coincidence_1500.csv`, `coverage_vs_null_1500.csv`, `nullmodel_results.json` | coverage of values 1–1500 vs null models |
 | `sapir861_861_computed_v01.csv` | computed facts about the number 861 |
 | `oshb.py`, `cover.py`, `nullmodel.py` | code that produces the tables (text: OSHB / WLC) |
 | `METHODS.md` | method in detail |
 
-Licence: CC BY 4.0. Please cite via `CITATION.cff`.
+Please cite via `CITATION.cff`.
 
 ---
 

@@ -1,0 +1,30 @@
+{
+ "title": "SAPIR 861 open gematria datasets and reproduction package",
+ "upload_type": "dataset",
+ "creators": [
+  {
+   "name": "Pichkhadze, Nugzari",
+   "affiliation": "SAPIR 861 (sapir861.com)"
+  }
+ ],
+ "license": "cc-by-4.0",
+ "keywords": [
+  "gematria",
+  "Hebrew Bible",
+  "Pentateuch",
+  "reproducibility",
+  "digital humanities"
+ ],
+ "related_identifiers": [
+  {
+   "identifier": "10.5281/zenodo.22848827",
+   "relation": "isVersionOf",
+   "scheme": "doi"
+  },
+  {
+   "identifier": "https://sapir861.com",
+   "relation": "isDocumentedBy",
+   "scheme": "url"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "versions": {
+  "engine": "13.77",
+  "data": "2026.09.27",
+  "corpus": "WLC 4.20 / OSHB morphhb (2018-12-14 morphology release)"
+ },
+ "corpus": {
+  "name": "Westminster Leningrad Codex via Open Scriptures Hebrew Bible",
+  "license": "CC BY 4.0",
+  "files": {
+   "Gen.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Gen.xml",
+    "sha256": "0526e5c9a5fb4d907847645f954ed3d1268fa69decbd872056cedd2668d86449"
+   },
+   "Exod.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Exod.xml",
+    "sha256": "04868367cdacb6ccdc61488e923e20f918172042e6437842a0621f63ac5b847f"
+   },
+   "Lev.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Lev.xml",
+    "sha256": "e21e70265c9ef500182f8ccb4f4e1186e5a79e1169d24cef23cc479baf07b191"
+   },
+   "Num.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Num.xml",
+    "sha256": "02e4febfcc027d10b3e35e4f091eae67a40d26f37b6254faac6b4af053fe4896"
+   },
+   "Deut.xml": {
+    "url": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Deut.xml",
+    "sha256": "04f8087442a1e67a631cd70f2ac4e42fe0a780ae132edb165a3a29f3f290358f"
+   }
+  }
+ },
+ "numbers": {
+  "torah_letters_wlc": 304850,
+  "torah_letters_edition": 304805,
+  "grid_861x354": 304794,
+  "torah_verses": 5853,
+  "attested_total": 8629,
+  "attested_exact": 6494,
+  "attested_kollel": 2135,
+  "tanakh_verses": 23213
+ },
+ "data": {
+  "attested": {
+   "file": "sapir861_attested_gematria_v05.csv",
+   "sha256": "d7e0889c44eb32f8fd687766c9d9c7552d50084701c590d936ccae6f5078e5a1",
+   "license": "CC BY-SA 4.0 (derived from Hebrew Wikisource)"
+  },
+  "pages": {
+   "file": "pages_861x354.csv",
+   "sha256": "5302ce5d010c98c6c14173e1c8859b72e23f37e9bc4b7bef74bb430c3d1b7256",
+   "license": "CC BY 4.0"
+  },
+  "coincidence": {
+   "file": "sapir861_coincidence_1500.csv",
+   "sha256": "c759dcbb9810b6a5763d8bf9ba51839312ceaef5eaa85ac38d848136c0843aea",
+   "license": "CC BY 4.0"
+  },
+  "coverage": {
+   "file": "coverage_vs_null_1500.csv",
+   "sha256": "339694604cbb2e0f670754218d47ee000bc85a6cf1fdba35f89ee723766a1a8b",
+   "license": "CC BY 4.0"
+  },
+  "facts_861": {
+   "file": "sapir861_861_computed_v01.csv",
+   "sha256": "54f8476d339ba84041405fa08d87e248cf40b06a1db5482cfe4cd26709c1482b",
+   "license": "CC BY 4.0"
+  }
+ },
+ "doi": {
+  "concept": "10.5281/zenodo.22848827"
+ }
+}

@@ -1,3 +1,10 @@
+## 2.1 — 2026-09-27
+- 861×354 reconciled page by page (354/354); previous open item "378-letter difference" was an artefact of counting qere readings; correct WLC ketiv count is 304,850.
+- `pages_861x354.csv` added.
+- attested index v05: stray comment row removed from CSV; 8 example pairs that fail letter-by-letter arithmetic marked `example_withdrawn` (totals unchanged: 8,629).
+- licence of the attested index corrected to CC BY-SA 4.0 (Wikisource share-alike).
+- `reproduce.py` + `MANIFEST.json` (engine / data / corpus versions, SHA-256) + Dockerfile.
+
 # Changelog
 
 ## v04 — 2026-09-24
