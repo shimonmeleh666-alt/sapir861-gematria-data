@@ -1,4 +1,4 @@
-# SAPIR Quote Verifier — pilot 0.1 (2026-09-27)
+# SAPIR Quote Verifier — pilot 0.2 (2026-09-27)
 
 Question it answers: **"Did this author really write this, and where exactly?"** — for texts from several cultures, with the same honest statuses as the gematria engine.
 
@@ -9,18 +9,20 @@ Question it answers: **"Did this author really write this, and where exactly?"**
 - Attribution: **MATCHES_CLAIM** (found in the claimed author's own work) or **DIFFERENT_SOURCE** (the words exist, but in someone else's text).
 Every answer carries a SHA-256 record.
 
-## Pilot corpus (all openly licensed)
-| corpus | languages | works | licence |
+## Corpus (v0.2, 2026-09-27)
+| corpus | what | documents | licence |
 |---|---|---|---|
-| gutenberg | en | 408 | US public domain (Project Gutenberg, via GITenberg mirror) |
-| perseus | en | 34 | CC BY-SA 4.0 (Perseus Digital Library) |
-| perseus | grc | 32 | CC BY-SA 4.0 (Perseus Digital Library) |
-| wlc | he | 40 | CC BY 4.0 (WLC/OSHB) |
+| chinese | Analects, Mencius, Great Learning, Doctrine of the Mean, Shijing, Chuci, Complete Tang Poems, Song ci | 87 | MIT (chinese-poetry) |
+| gutenberg | 3,394 books in 50+ languages (en 1,300+, es, pt, de, fr, nl, it, el, zh, fi, la …) | 3394 | US public domain (Project Gutenberg via GITenberg) |
+| perseus | Greek and Latin originals + English translations (full canonical-greekLit and canonical-latinLit) | 2132 | CC BY-SA 4.0 |
+| quran | Qur'an: Arabic + en, ru, fr, es translations | 5 | Tanzil verbatim + listed translations |
+| sefaria | Mishnah, Babylonian Talmud, Tosefta, Midrash, Rashi on Torah, Mishneh Torah, Shulchan Arukh, Zohar, Musar, Jewish thought, Second Temple — Hebrew + English | 849 | per text version (PD / CC0 / CC BY; some CC BY-NC) |
+| wlc | Hebrew Bible, 39 books | 40 | CC BY 4.0 |
 
-1,132,254 passages. Includes: Hebrew Bible (Hebrew, 39 books), New Testament and Plato's Republic (Greek + English), ~410 classics in English: KJV Bible, Plato, Aristotle, Marcus Aurelius, Epictetus, Seneca, Confucius, Tao Te Ching, Dhammapada, Bhagavad Gita, the Koran (three translations), Dante, Cervantes, Shakespeare, Montaigne, Pascal, Voltaire, Goethe, Tolstoy, Dickens, Darwin, Marx, Nietzsche, Paine, Lincoln, Emerson and others.
+**6,397,631 passages, 6,507 documents, 58 languages.**
 
 ## First test: 34 famous quotes, genuine and misattributed
-Agreement with expected answer: **28 / 34**.
+Agreement with expected answer: **30 / 34** (v0.1 on the smaller corpus: 28 / 34).
 
 | ✓/✗ | status | attribution | expected genuine | quote | claimed |
 |---|---|---|---|---|---|
@@ -34,9 +36,9 @@ Agreement with expected answer: **28 / 34**.
 | ✓ | FOUND_EXACT | MATCHES_CLAIM | True | In the beginning God created the heaven and the earth | Bible |
 | ✓ | FOUND_EXACT | MATCHES_CLAIM | True | The unexamined life is not worth living | Plato |
 | ✓ | FOUND_CLOSE | MATCHES_CLAIM | True | Workingmen of all countries unite | Marx |
-| ✗ | FOUND_EXACT | DIFFERENT_SOURCE | True | These are the times that try men's souls | Thomas Paine |
+| ✓ | FOUND_EXACT | MATCHES_CLAIM | True | These are the times that try men's souls | Thomas Paine |
 | ✓ | FOUND_CLOSE | DIFFERENT_SOURCE | False | Lasciate ogne speranza, voi ch'intrate | Dante |
-| ✗ | NOT_FOUND | - | True | Abandon all hope, ye who enter here | Dante |
+| ✗ | FOUND_CLOSE | DIFFERENT_SOURCE | True | Abandon all hope, ye who enter here | Dante |
 | ✓ | FOUND_EXACT | MATCHES_CLAIM | True | God is dead | Nietzsche |
 | ✓ | FOUND_CLOSE | MATCHES_CLAIM | True | The heart has its reasons which reason knows nothing of | Pascal |
 | ✗ | NOT_FOUND | - | True | The supreme art of war is to subdue the enemy without fighti | Sun Tzu |
@@ -52,14 +54,14 @@ Agreement with expected answer: **28 / 34**.
 | ✓ | FOUND_EXACT | MATCHES_CLAIM | True | The love of money is the root of all evil | Bible |
 | ✓ | FOUND_EXACT | MATCHES_CLAIM | True | Pride goeth before destruction, and an haughty spirit before | Bible |
 | ✓ | FOUND_EXACT | DIFFERENT_SOURCE | False | Cleanliness is next to godliness | Bible |
-| ✓ | FOUND_CLOSE | DIFFERENT_SOURCE | False | God helps those who help themselves | Bible |
+| ✓ | FOUND_EXACT | DIFFERENT_SOURCE | False | God helps those who help themselves | Bible |
 | ✓ | FOUND_EXACT | MATCHES_CLAIM | True | To thine own self be true | Shakespeare |
 | ✓ | FOUND_EXACT | MATCHES_CLAIM | True | Survival of the fittest | Charles Darwin |
 | ✓ | NOT_FOUND | - | False | Religion is the opium of the people | Marx |
 | ✓ | FOUND_EXACT | DIFFERENT_SOURCE | False | I think, therefore I am | Aristotle |
-| ✗ | FOUND_EXACT | DIFFERENT_SOURCE | True | Know thyself | Plato |
+| ✓ | FOUND_EXACT | MATCHES_CLAIM | True | Know thyself | Plato |
 
-### What the 6 disagreements teach
+### What the disagreements teach
 1. **Translations** (Machiavelli, Dante, Sun Tzu): the popular wording comes from a modern translation; the old public-domain translation says it differently. The tool correctly says "not in this wording" — but the product must match across translations. Next step: cross-translation matching.
 2. **Corpus gaps** (Paine's *The Crisis*): the text is not yet in the pilot. Solved by scale.
 3. **Misquote inside a real quote** ("Money is the root of all evil" vs KJV "the *love of* money is the root of all evil"): the substring exists, so a naive match says "found". Next step: flag when the claimed quote drops words that change meaning.
@@ -79,3 +81,7 @@ Agreement with expected answer: **28 / 34**.
 
 ## Reproduce
 `qv_build.py` downloads nothing itself: fetch the books listed in `qv_books.json` from the GITenberg mirror, WLC from OSHB, Perseus from GitHub, then `python3 qv_build.py` → SQLite FTS5 index; `python3 qv_verify.py "quote" "author"`.
+
+## Known limits found in v0.2
+- Hebrew spelling variants (plene / defective: שלושה vs שלשה) — exact search misses; fuzzy stage now compares defective forms.
+- Attribution to a *speaker* (Hillel in Avot) vs. the *book* — the index knows books, not speakers yet.

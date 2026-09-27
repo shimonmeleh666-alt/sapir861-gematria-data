@@ -5,7 +5,11 @@ from build_norm import norm
 DB = sqlite3.connect('qv.sqlite')
 NDOC = DB.execute('select count(*) from doc').fetchone()[0]
 def fts_phrase(toks): return '"' + ' '.join(t.replace('"', '') for t in toks) + '"'
+def defect(s):
+    return re.sub(r'(?<=[\u05d0-\u05ea])[\u05d5\u05d9]', '', s)
 def best_window(q, text):
+    if re.search(r'[\u05d0-\u05ea]', q):
+        q, text = defect(q), defect(text)
     qt = q.split(); tt = text.split(); L = len(qt); best = 0.0; bs = ''
     if not tt: return 0, ''
     for i in range(0, max(1, len(tt) - L + 1)):
@@ -17,7 +21,10 @@ def verify(quote, author=None, limit=8):
     out = {'query': quote, 'claimed_author': author, 'normalized': q, 'corpus_works': NDOC, 'engine': 'sapir-qv 0.1'}
     if len(toks) < 2:
         out.update(status='TOO_SHORT', matches=[], works=[], n_matches=0); return out
-    rows = DB.execute("select p.raw,p.loc,d.work,d.author,d.lang,d.license,d.source from p join doc d on d.id=p.doc where p match ? limit ?", (fts_phrase(toks), 200)).fetchall()
+    rows = DB.execute("select p.raw,p.loc,d.work,d.author,d.lang,d.license,d.source from p join doc d on d.id=p.doc where p match ? limit ?", (fts_phrase(toks), 400)).fetchall()
+    PRI = {'wlc': 0, 'sefaria': 1, 'quran': 1, 'chinese': 1, 'perseus': 2, 'gutenberg': 3}
+    cmap = dict(DB.execute('select source, corpus from doc').fetchall())
+    rows = sorted(rows, key=lambda r: PRI.get(cmap.get(r[6], 'gutenberg'), 3))
     status = 'FOUND_EXACT' if rows else None
     if not rows:
         key = sorted(set(toks), key=len, reverse=True)[:8]
