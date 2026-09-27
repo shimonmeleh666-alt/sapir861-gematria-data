@@ -26,6 +26,16 @@ Downloads the pinned WLC/OSHB text (SHA-256 in `MANIFEST.json`) and re-derives e
 | attested equalities | 8,629 = 6,494 exact + 2,135 kollel |
 | example pairs re-added letter by letter | 1,015 pass; 8 extraction errors (number words, not equalities) marked `example_withdrawn` in v05 |
 
+## 861-Bench 2.0 and the pre-registered blind test
+
+- `bench2_public.jsonl` — 6,879 public items (arithmetic, kollel, true-but-unattested, attested-unconfirmed, retrieval, refusal); `bench2_manifest.json` has counts and hashes.
+- 1,000 held-out items are **not published**; their SHA-256 is fixed in advance: `d403e0541949e339d79d174fb08e21f2c52b20cabfdcdb58e5ca1cef5aee448c`.
+- `gen.py` regenerates everything (seed 861, run `reproduce.py` first to fetch the corpus); `score.py` scores any model's answers.
+- `PREREG_BLIND_TEST.md` — protocol fixed before any run: question, conditions, six metrics, McNemar with Bonferroni, success and failure criteria, independence rules. SHA-256 `0dc7b1bcb59285113bd71f05636e1f0daf7a6a60bef651cb86a2e378c7071c12`. A negative result is published in full.
+
+## Status labels
+Every answer on sapir861.com and in `/api/provenance` carries a status: **COMPUTED** (letter arithmetic, deterministic), **UNCONFIRMED** (machine-extracted attestation, not yet checked against the printed page), **NOT FOUND** (no record among 8,629), **CONFIRMED** (reserved for records verified against the printed page). Example: 861 — COMPUTED; its two attestations (Bnei Yissaschar) are UNCONFIRMED.
+
 ## Versions
 `MANIFEST.json` pins three things separately: **engine** (site code version), **data** (dataset release), **corpus** (WLC 4.20 via OSHB, file hashes).
 

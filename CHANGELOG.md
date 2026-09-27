@@ -1,3 +1,8 @@
+## 2.2 — 2026-09-27
+- 861-Bench 2.0: 7,879 items (6,879 public, 1,000 held-out with pre-published hash), generator and scorer.
+- Pre-registered blind-test protocol (PREREG_BLIND_TEST.md).
+- Status labels COMPUTED / UNCONFIRMED / NOT FOUND / CONFIRMED in /api/provenance; equalities "A = B" now checked side by side.
+
 ## 2.1 — 2026-09-27
 - 861×354 reconciled page by page (354/354); previous open item "378-letter difference" was an artefact of counting qere readings; correct WLC ketiv count is 304,850.
 - `pages_861x354.csv` added.

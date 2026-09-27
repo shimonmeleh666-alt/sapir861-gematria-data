@@ -1,0 +1,17 @@
+{
+ "version": "2.0",
+ "seed": 861,
+ "total": 7879,
+ "public": 6879,
+ "heldout": 1000,
+ "by_category": {
+  "kollel": 591,
+  "arith_false": 2955,
+  "true_unattested": 2000,
+  "retrieval": 1000,
+  "attested_unconf": 1013,
+  "refusal": 320
+ },
+ "sha256_public": "f6d2167deb7f285181a64a0abec3638857a8d168ef84e29e73de05cc9dd35058",
+ "sha256_heldout": "d403e0541949e339d79d174fb08e21f2c52b20cabfdcdb58e5ca1cef5aee448c"
+}
