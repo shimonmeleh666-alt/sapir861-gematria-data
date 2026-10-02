@@ -1,9 +1,9 @@
 {
- "version": "2.0",
- "seed": 861,
- "total": 7879,
+ "version": "2.1",
+ "seed_public": 861,
+ "total_public_and_dev": 7879,
  "public": 6879,
- "heldout": 1000,
+ "dev_v20": 1000,
  "by_category": {
   "kollel": 591,
   "arith_false": 2955,
@@ -13,5 +13,15 @@
   "refusal": 320
  },
  "sha256_public": "f6d2167deb7f285181a64a0abec3638857a8d168ef84e29e73de05cc9dd35058",
- "sha256_heldout": "d403e0541949e339d79d174fb08e21f2c52b20cabfdcdb58e5ca1cef5aee448c"
+ "sha256_dev_v20": "d403e0541949e339d79d174fb08e21f2c52b20cabfdcdb58e5ca1cef5aee448c",
+ "heldout": 1000,
+ "heldout_by_category": {
+  "arith_false": 400,
+  "true_unattested": 280,
+  "retrieval": 180,
+  "kollel": 90,
+  "refusal": 50
+ },
+ "sha256_heldout": "f5d43745d5853ea7291d0e06f92b54ff1426c59d0f7975275b037a590beb0aa8",
+ "heldout_seed": "secret, not published"
 }

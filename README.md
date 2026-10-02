@@ -26,11 +26,12 @@ Downloads the pinned WLC/OSHB text (SHA-256 in `MANIFEST.json`) and re-derives e
 | attested equalities | 8,629 = 6,494 exact + 2,135 kollel |
 | example pairs re-added letter by letter | 1,015 pass; 8 extraction errors (number words, not equalities) marked `example_withdrawn` in v05 |
 
-## 861-Bench 2.0 and the pre-registered blind test
+## 861-Bench 2.1 and the pre-registered blind test
 
 - `bench2_public.jsonl` — 6,879 public items (arithmetic, kollel, true-but-unattested, attested-unconfirmed, retrieval, refusal); `bench2_manifest.json` has counts and hashes.
-- 1,000 held-out items are **not published**; their SHA-256 is fixed in advance: `d403e0541949e339d79d174fb08e21f2c52b20cabfdcdb58e5ca1cef5aee448c`.
-- `gen.py` regenerates everything (seed 861, run `reproduce.py` first to fetch the corpus); `score.py` scores any model's answers.
+- 1,000 held-out items (861-Bench 2.1) are **not published**; they were drawn with a secret seed that is not in this repository. SHA-256 of the file: `f5d43745d5853ea7291d0e06f92b54ff1426c59d0f7975275b037a590beb0aa8`.
+- `bench2_dev_v20.jsonl` — the retired 2.0 held-out split (1,000 items, SHA-256 `d403e0541949e339d79d174fb08e21f2c52b20cabfdcdb58e5ca1cef5aee448c`). It could be regenerated from the public generator, so it is now published as a development set. See `PREREG_AMENDMENT_1.md` (SHA-256 `9bc9702e21f5abd9c67673d22662a4cf2b2ff20afe09ea632a3672e76e0e13dc`).
+- `gen.py` regenerates the public and development files (seed 861, run `reproduce.py` first to fetch the corpus); the held-out file needs the secret seed and cannot be regenerated from this repository. `score.py` scores any model's answers.
 - `PREREG_BLIND_TEST.md` — protocol fixed before any run: question, conditions, six metrics, McNemar with Bonferroni, success and failure criteria, independence rules. SHA-256 `0dc7b1bcb59285113bd71f05636e1f0daf7a6a60bef651cb86a2e378c7071c12`. A negative result is published in full.
 
 ## Status labels
